@@ -1,0 +1,352 @@
+[
+ {
+  "file": "data/ls_clean_00.wav",
+  "subset": "clean",
+  "text": "concord returned to its place amidst the tents",
+  "seconds": 3.5,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_01.wav",
+  "subset": "clean",
+  "text": "i can perceive love clearly enough",
+  "seconds": 3.0,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_02.wav",
+  "subset": "clean",
+  "text": "bragelonne watched for some time the conduct of the two lovers listened to the loud and uncivil slumbers of manicamp who snored as imperiously as though he was wearing his blue and gold instead of his violet suit",
+  "seconds": 14.4,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_03.wav",
+  "subset": "clean",
+  "text": "do you suppose the miniature was a copy of the same thing",
+  "seconds": 3.4,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_04.wav",
+  "subset": "clean",
+  "text": "now let's dust the furniture and pictures",
+  "seconds": 2.6,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_05.wav",
+  "subset": "clean",
+  "text": "no words were spoken no language was uttered save that of wailing and hissing and that somehow was indistinct as if it existed in fancy and not in reality",
+  "seconds": 12.9,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_06.wav",
+  "subset": "clean",
+  "text": "a sound of voices a flash of light",
+  "seconds": 3.8,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_07.wav",
+  "subset": "clean",
+  "text": "i say you do know what this means and you must tell us",
+  "seconds": 5.0,
+  "speaker": 6930
+ },
+ {
+  "file": "data/ls_clean_08.wav",
+  "subset": "clean",
+  "text": "in other words while he had implicit faith in the ability of balaam's ass to speak he was somewhat skeptical on the subject of a bear's singing and yet he had been assured of the latter on the testimony of his own exquisite organs",
+  "seconds": 13.6,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_09.wav",
+  "subset": "clean",
+  "text": "four or five of the latter only lingered about the door of the prison of uncas wary but close observers of the manner of their captive",
+  "seconds": 7.6,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_10.wav",
+  "subset": "clean",
+  "text": "the delawares are children of the tortoise and they outstrip the deer",
+  "seconds": 3.9,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_11.wav",
+  "subset": "clean",
+  "text": "keep silent as long as may be and it would be wise when you do speak to break out suddenly in one of your shoutings which will serve to remind the indians that you are not altogether as responsible as men should be",
+  "seconds": 11.3,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_12.wav",
+  "subset": "clean",
+  "text": "since the period of our tale the active spirit of the country has surrounded it with a belt of rich and thriving settlements though none but the hunter or the savage is ever known even now to penetrate its wild recesses",
+  "seconds": 13.5,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_13.wav",
+  "subset": "clean",
+  "text": "see said uncas pointing north and south at the evident marks of the broad trail on either side of him the dark hair has gone toward the forest",
+  "seconds": 10.2,
+  "speaker": 1320
+ },
+ {
+  "file": "data/ls_clean_14.wav",
+  "subset": "clean",
+  "text": "she saw that the bed was gilded and so rich that it seemed that of a prince rather than of a private gentleman",
+  "seconds": 6.9,
+  "speaker": 5639
+ },
+ {
+  "file": "data/ls_clean_15.wav",
+  "subset": "clean",
+  "text": "when the boy walked through the streets blessings were showered upon him by all who saw him blessings upon his beauty upon the mother that bore him upon the father that begot him upon those who brought him up so well",
+  "seconds": 13.9,
+  "speaker": 5639
+ },
+ {
+  "file": "data/ls_clean_16.wav",
+  "subset": "clean",
+  "text": "her bearing was graceful and animated she led her son by the hand and before her walked two maids with wax lights and silver candlesticks",
+  "seconds": 9.2,
+  "speaker": 5639
+ },
+ {
+  "file": "data/ls_clean_17.wav",
+  "subset": "clean",
+  "text": "poor alice",
+  "seconds": 1.7,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_18.wav",
+  "subset": "clean",
+  "text": "no i've made up my mind about it if i'm mabel i'll stay down here",
+  "seconds": 4.9,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_19.wav",
+  "subset": "clean",
+  "text": "saturday august fifteenth the sea unbroken all round no land in sight",
+  "seconds": 7.0,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_20.wav",
+  "subset": "clean",
+  "text": "sunday august sixteenth",
+  "seconds": 2.6,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_21.wav",
+  "subset": "clean",
+  "text": "tuesday august eighteenth",
+  "seconds": 3.1,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_22.wav",
+  "subset": "clean",
+  "text": "suddenly the ichthyosaurus and the plesiosaurus disappear below leaving a whirlpool eddying in the water",
+  "seconds": 7.5,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_23.wav",
+  "subset": "clean",
+  "text": "there's a heavy storm coming on i cried pointing towards the horizon",
+  "seconds": 5.5,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_24.wav",
+  "subset": "clean",
+  "text": "the raft bears on still to the south east",
+  "seconds": 3.2,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_25.wav",
+  "subset": "clean",
+  "text": "we suffer stifling pains",
+  "seconds": 2.6,
+  "speaker": 260
+ },
+ {
+  "file": "data/ls_clean_26.wav",
+  "subset": "clean",
+  "text": "all dissent all non compliance all hesitation all mere silence even were in their stronghold towns like leavenworth branded as abolitionism declared to be hostility to the public welfare and punished with proscription personal violence expulsion and frequently death",
+  "seconds": 18.6,
+  "speaker": 7729
+ },
+ {
+  "file": "data/ls_clean_27.wav",
+  "subset": "clean",
+  "text": "to embarrass this damaging exposure judge lecompte issued a writ against the ex governor on a frivolous charge of contempt",
+  "seconds": 8.9,
+  "speaker": 7729
+ },
+ {
+  "file": "data/ls_clean_28.wav",
+  "subset": "clean",
+  "text": "ten days were consumed in these negotiations but the spirit of vengeance refused to yield",
+  "seconds": 7.1,
+  "speaker": 7729
+ },
+ {
+  "file": "data/ls_clean_29.wav",
+  "subset": "clean",
+  "text": "the inmates being removed at the appointed hour a few cannon balls were fired through the stone walls",
+  "seconds": 6.8,
+  "speaker": 7729
+ },
+ {
+  "file": "data/ls_other_00.wav",
+  "subset": "other",
+  "text": "i am from the cutter lying off the coast",
+  "seconds": 2.1,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_01.wav",
+  "subset": "other",
+  "text": "cold water came on this idea directly as he recalled the fact that the darkness was intense and celia could not have seen him",
+  "seconds": 6.8,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_02.wav",
+  "subset": "other",
+  "text": "sympathy and pity for the dwellers in the hoze were completely gone now and he set his teeth fast and mentally called himself a weak idiot for ever thinking about such people",
+  "seconds": 8.8,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_03.wav",
+  "subset": "other",
+  "text": "the dull sound of departing steps and a low whistling sound coming down through the skylight window into the cabin where archy raystoke lay with his heavy eyelids pressed down by sleep",
+  "seconds": 8.6,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_04.wav",
+  "subset": "other",
+  "text": "ram was the first to recover from his surprise",
+  "seconds": 2.7,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_05.wav",
+  "subset": "other",
+  "text": "archy stepped back to the door listening but there was not a sound",
+  "seconds": 3.4,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_06.wav",
+  "subset": "other",
+  "text": "be quick there's a good fellow i want to get away at once",
+  "seconds": 3.2,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_07.wav",
+  "subset": "other",
+  "text": "ram showed his white teeth as he burst out with a long low fit of laughter",
+  "seconds": 4.6,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_08.wav",
+  "subset": "other",
+  "text": "soon as the signal comes we shall push off",
+  "seconds": 2.4,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_09.wav",
+  "subset": "other",
+  "text": "then i must request that you will not make it again very true",
+  "seconds": 3.3,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_10.wav",
+  "subset": "other",
+  "text": "yes sir said the man humbly shall i go at once sir",
+  "seconds": 3.1,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_11.wav",
+  "subset": "other",
+  "text": "mister raystoke sir don't be a fool",
+  "seconds": 2.7,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_12.wav",
+  "subset": "other",
+  "text": "if she knew evil had come to the poor lad her face would tell tales like print",
+  "seconds": 3.7,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_13.wav",
+  "subset": "other",
+  "text": "beg pardon sir but can you as a gentleman assure me that he is not here certainly said sir risdon",
+  "seconds": 5.4,
+  "speaker": 7902
+ },
+ {
+  "file": "data/ls_other_14.wav",
+  "subset": "other",
+  "text": "then he carried me to the beach where i filled my bag with pebbles large and small and presently we saw a company of folk issue from the town each bearing a bag like mine filled with pebbles",
+  "seconds": 13.6,
+  "speaker": 7018
+ },
+ {
+  "file": "data/ls_other_15.wav",
+  "subset": "other",
+  "text": "haply amongst you is one righteous whose prayers the lord will accept",
+  "seconds": 5.1,
+  "speaker": 7018
+ },
+ {
+  "file": "data/ls_other_16.wav",
+  "subset": "other",
+  "text": "when i awoke at last i found myself in the light of heaven and opening my eyes i saw myself in a broad stream and the raft moored to an island in the midst of a number of indians and abyssinians",
+  "seconds": 12.9,
+  "speaker": 7018
+ },
+ {
+  "file": "data/ls_other_17.wav",
+  "subset": "other",
+  "text": "by allah o my lord answered i thou hast indeed overwhelmed me with thy favours and well doings but i weary for a sight of my friends and family and native country",
+  "seconds": 12.2,
+  "speaker": 7018
+ },
+ {
+  "file": "data/ls_other_18.wav",
+  "subset": "other",
+  "text": "the seventh voyage of sindbad the seaman",
+  "seconds": 3.1,
+  "speaker": 7018
+ },
+ {
+  "file": "data/ls_other_19.wav",
+  "subset": "other",
+  "text": "by the virtue of god why do not you sing panniers farewell vintage is done",
+  "seconds": 8.1,
+  "speaker": 4198
+ }
+]

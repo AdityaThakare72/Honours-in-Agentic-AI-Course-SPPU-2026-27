@@ -1,0 +1,81 @@
+{
+ "answerable": [
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "What are the two RAG formulations compared in the RAG paper, and how do they differ?",
+   "reference": "RAG-Sequence uses the same retrieved document to generate the whole output sequence, while RAG-Token can use a different retrieved document for each target token.",
+   "keyword": "RAG-Token"
+  },
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "Which retriever does the RAG model use, and what architecture is it?",
+   "reference": "RAG uses Dense Passage Retriever (DPR), a bi-encoder with a BERT-base document encoder and a BERT-base query encoder.",
+   "keyword": "bi-encoder"
+  },
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "Which generator model does RAG use and how many parameters does it have?",
+   "reference": "RAG uses BART-large, a pre-trained seq2seq transformer with 400M parameters, as its generator.",
+   "keyword": "BART-large"
+  },
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "How was the Wikipedia knowledge source prepared for the RAG index?",
+   "reference": "The December 2018 Wikipedia dump was split into disjoint 100-word chunks, giving 21M documents, which were embedded and stored in a FAISS MIPS index with an HNSW approximation.",
+   "keyword": "21M"
+  },
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "What does the index hot-swapping experiment show in the RAG paper?",
+   "reference": "Replacing the document index updates the model's knowledge without retraining: RAG answered 70% correctly with the 2016 index for 2016 world leaders and 68% with the 2018 index for 2018 world leaders, but accuracy was only 12% and 4% with mismatched indices.",
+   "keyword": "hot-swapping"
+  },
+  {
+   "source": "rag_lewis_2020.pdf",
+   "question": "What search problem is solved to find the top-K documents in RAG?",
+   "reference": "Finding the top-K documents is a Maximum Inner Product Search (MIPS) problem, which can be approximately solved in sub-linear time.",
+   "keyword": "Maximum Inner Product Search"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "By how much does LoRA reduce trainable parameters and GPU memory for GPT-3 175B compared with fine-tuning with Adam?",
+   "reference": "LoRA reduces the number of trainable parameters by 10,000 times and the GPU memory requirement by 3 times.",
+   "keyword": "10,000 times"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "Which weight matrices does LoRA adapt in most of its experiments?",
+   "reference": "In most experiments LoRA is applied only to the query and value projection matrices, Wq and Wv, of the self-attention module.",
+   "keyword": "Wq and Wv"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "How are the LoRA matrices A and B initialised, and why does it matter?",
+   "reference": "A uses a random Gaussian initialisation and B is initialised to zero, so the update BA is zero at the start of training.",
+   "keyword": "random Gaussian initialization"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "Why does LoRA add no inference latency?",
+   "reference": "After training, W = W0 + BA can be computed and stored explicitly, so inference runs on a single merged matrix exactly as in the original model.",
+   "keyword": "explicitly compute and store"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "How small can the LoRA rank be according to the rank experiments?",
+   "reference": "A rank as small as one suffices for adapting both Wq and Wv on WikiSQL and MultiNLI, while training Wq alone needs a larger rank.",
+   "keyword": "rank as small as one"
+  },
+  {
+   "source": "lora_hu_2021.pdf",
+   "question": "How much did LoRA shrink the GPT-3 175B checkpoint when r = 4 and only the query and value matrices were adapted?",
+   "reference": "The checkpoint size shrank by roughly 10,000 times, from 350GB to 35MB.",
+   "keyword": "35MB"
+  }
+ ],
+ "unanswerable": [
+  "What is the price per million tokens of the GPT-4 API?",
+  "What accuracy does the RAG model achieve on the HotpotQA dataset?",
+  "How well does LoRA perform when applied to the LLaMA-2 70B model?"
+ ]
+}

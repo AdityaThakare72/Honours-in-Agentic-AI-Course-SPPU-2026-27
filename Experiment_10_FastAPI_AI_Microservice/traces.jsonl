@@ -1,0 +1,214 @@
+{"trace_id": "7dd12dfb6459", "span_id": "814a2453", "parent_id": "f6de1c1d", "name": "embed", "start_ms": 0.04, "ms": 46.26, "attrs": {}}
+{"trace_id": "7dd12dfb6459", "span_id": "f6de1c1d", "parent_id": "59f8be4c", "name": "cache.lookup", "start_ms": 0.03, "ms": 48.72, "attrs": {"hit": false, "score": 0.0}}
+{"trace_id": "7dd12dfb6459", "span_id": "95e6d141", "parent_id": "59f8be4c", "name": "llm.stream", "start_ms": 50.09, "ms": 1714.34, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 177}}
+{"trace_id": "7dd12dfb6459", "span_id": "5f09a4de", "parent_id": "59f8be4c", "name": "cache.store", "start_ms": 1764.59, "ms": 3.84, "attrs": {}}
+{"trace_id": "7dd12dfb6459", "span_id": "59f8be4c", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1768.69, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "3cd97bf201ab", "span_id": "6c28d2d5", "parent_id": "761d1154", "name": "embed", "start_ms": 0.03, "ms": 15.81, "attrs": {}}
+{"trace_id": "3cd97bf201ab", "span_id": "761d1154", "parent_id": "9df6b992", "name": "cache.lookup", "start_ms": 0.02, "ms": 18.26, "attrs": {"hit": true, "score": 0.942}}
+{"trace_id": "3cd97bf201ab", "span_id": "9df6b992", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 20.27, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "510a9f6a93ec", "span_id": "1abc00fb", "parent_id": "16d85b58", "name": "embed", "start_ms": 0.03, "ms": 14.24, "attrs": {}}
+{"trace_id": "510a9f6a93ec", "span_id": "16d85b58", "parent_id": "924645e0", "name": "cache.lookup", "start_ms": 0.02, "ms": 16.19, "attrs": {"hit": false, "score": 0.663}}
+{"trace_id": "510a9f6a93ec", "span_id": "7d88bc5c", "parent_id": "924645e0", "name": "llm.stream", "start_ms": 17.11, "ms": 1083.67, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 200}}
+{"trace_id": "510a9f6a93ec", "span_id": "e47e2e0d", "parent_id": "924645e0", "name": "cache.store", "start_ms": 1100.93, "ms": 3.38, "attrs": {}}
+{"trace_id": "510a9f6a93ec", "span_id": "924645e0", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1104.53, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "0c913c538739", "span_id": "acb1e2e9", "parent_id": "88ca5c46", "name": "embed", "start_ms": 0.03, "ms": 14.97, "attrs": {}}
+{"trace_id": "0c913c538739", "span_id": "88ca5c46", "parent_id": "8d45d4e4", "name": "cache.lookup", "start_ms": 0.02, "ms": 17.31, "attrs": {"hit": true, "score": 0.942}}
+{"trace_id": "0c913c538739", "span_id": "8d45d4e4", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 21.82, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "c26836e5a5ae", "span_id": "d5af3dad", "parent_id": "eff60677", "name": "llm.stream", "start_ms": 3.1, "ms": 1041.37, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 261}}
+{"trace_id": "c26836e5a5ae", "span_id": "eff60677", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1044.82, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "7a087284ce0f", "span_id": "e6cb7c14", "parent_id": "f5c8680d", "name": "llm.stream", "start_ms": 1.33, "ms": 1106.97, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 181}}
+{"trace_id": "7a087284ce0f", "span_id": "f5c8680d", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1108.7, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "87827a337a26", "span_id": "78d6511f", "parent_id": "2cd5eef8", "name": "llm.stream", "start_ms": 2.12, "ms": 1103.55, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 197}}
+{"trace_id": "87827a337a26", "span_id": "2cd5eef8", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1105.94, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "18b516c2ddea", "span_id": "56df3a07", "parent_id": "85be16bd", "name": "llm.stream", "start_ms": 1.4, "ms": 1136.6, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 257}}
+{"trace_id": "18b516c2ddea", "span_id": "85be16bd", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1146.35, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "8a85a7169e75", "span_id": "e49d70b7", "parent_id": "f648acb3", "name": "llm.stream", "start_ms": 1.6, "ms": 1075.1, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 177}}
+{"trace_id": "8a85a7169e75", "span_id": "f648acb3", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1077.13, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "8636bb57caa5", "span_id": "3d944d2c", "parent_id": "8b5ceff7", "name": "llm.stream", "start_ms": 0.83, "ms": 1051.49, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 228}}
+{"trace_id": "8636bb57caa5", "span_id": "8b5ceff7", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1052.65, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "5caa686340c5", "span_id": "9e2e5c52", "parent_id": "33dbb5d2", "name": "llm.stream", "start_ms": 0.85, "ms": 1162.61, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 427}}
+{"trace_id": "5caa686340c5", "span_id": "33dbb5d2", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1163.64, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "1af704e35b4f", "span_id": "acfd2b77", "parent_id": "1fb1cce6", "name": "llm.stream", "start_ms": 0.87, "ms": 1165.94, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 288}}
+{"trace_id": "1af704e35b4f", "span_id": "1fb1cce6", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1167.0, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "2ad7cddee1f0", "span_id": "b932c48b", "parent_id": "e8073752", "name": "llm.stream", "start_ms": 1.02, "ms": 1103.12, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 243}}
+{"trace_id": "2ad7cddee1f0", "span_id": "e8073752", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1104.46, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "94ed26881634", "span_id": "5f4cdfca", "parent_id": "eb2da2a3", "name": "llm.stream", "start_ms": 0.76, "ms": 1025.67, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 196}}
+{"trace_id": "94ed26881634", "span_id": "eb2da2a3", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1026.63, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "926bcb83a195", "span_id": "42103e97", "parent_id": "ec6abc40", "name": "llm.stream", "start_ms": 0.78, "ms": 1124.17, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 129}}
+{"trace_id": "926bcb83a195", "span_id": "ec6abc40", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1132.32, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "ad9ea9c70b78", "span_id": "433d4725", "parent_id": "6e1ebe11", "name": "llm.stream", "start_ms": 2.72, "ms": 1174.65, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 265}}
+{"trace_id": "ad9ea9c70b78", "span_id": "6e1ebe11", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1177.56, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "f2d5e5f90b2f", "span_id": "5ac7bf7e", "parent_id": "f8fc210f", "name": "llm.stream", "start_ms": 1.0, "ms": 1084.96, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 295}}
+{"trace_id": "f2d5e5f90b2f", "span_id": "f8fc210f", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1086.19, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "63dfb52481b5", "span_id": "0e0ea91b", "parent_id": "562369fa", "name": "llm.stream", "start_ms": 0.84, "ms": 1037.92, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 177}}
+{"trace_id": "63dfb52481b5", "span_id": "562369fa", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1039.57, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "7f3fa8df66d4", "span_id": "5a44a0e6", "parent_id": "f7d32604", "name": "llm.stream", "start_ms": 1.49, "ms": 1068.68, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 166}}
+{"trace_id": "7f3fa8df66d4", "span_id": "f7d32604", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1070.63, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "a85301f279c0", "span_id": "58079c2b", "parent_id": "33479a56", "name": "llm.stream", "start_ms": 0.84, "ms": 1205.75, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 271}}
+{"trace_id": "a85301f279c0", "span_id": "33479a56", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1206.84, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "9eafa44bf96d", "span_id": "2944e044", "parent_id": "e1f2a5d8", "name": "llm.stream", "start_ms": 0.81, "ms": 1217.63, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 303}}
+{"trace_id": "9eafa44bf96d", "span_id": "e1f2a5d8", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1218.68, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "8e3b4e9d5663", "span_id": "5f3e50f6", "parent_id": "30de9937", "name": "llm.stream", "start_ms": 0.9, "ms": 1103.98, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 290}}
+{"trace_id": "8e3b4e9d5663", "span_id": "30de9937", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1105.07, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "e0c3a72128b1", "span_id": "8bb33deb", "parent_id": "d9c3a8ba", "name": "llm.stream", "start_ms": 0.75, "ms": 1265.42, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 376}}
+{"trace_id": "e0c3a72128b1", "span_id": "d9c3a8ba", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1266.37, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "997602e5a834", "span_id": "f3f5269a", "parent_id": "0a307bf1", "name": "llm.stream", "start_ms": 0.93, "ms": 1284.91, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 263}}
+{"trace_id": "997602e5a834", "span_id": "0a307bf1", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1286.15, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "33abde9f0164", "span_id": "0a3cf977", "parent_id": "5683238e", "name": "llm.stream", "start_ms": 0.96, "ms": 969.89, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 124}}
+{"trace_id": "33abde9f0164", "span_id": "5683238e", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 971.06, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "c464befaa449", "span_id": "4b7f6824", "parent_id": "6e975173", "name": "llm.stream", "start_ms": 0.77, "ms": 1030.73, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 283}}
+{"trace_id": "c464befaa449", "span_id": "6e975173", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1031.71, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "9362f639da05", "span_id": "364ec362", "parent_id": "dae530a9", "name": "llm.stream", "start_ms": 0.78, "ms": 1065.0, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 319}}
+{"trace_id": "9362f639da05", "span_id": "dae530a9", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1066.2, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "178f9f7a83f8", "span_id": "c0ccea88", "parent_id": "681692e7", "name": "llm.stream", "start_ms": 0.97, "ms": 1135.06, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 329}}
+{"trace_id": "178f9f7a83f8", "span_id": "681692e7", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1136.44, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "d768cdbb3e6c", "span_id": "904f9895", "parent_id": "b9dee845", "name": "llm.stream", "start_ms": 0.84, "ms": 1014.24, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 167}}
+{"trace_id": "d768cdbb3e6c", "span_id": "b9dee845", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1015.57, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "ed44e4384f9e", "span_id": "c7659f3a", "parent_id": "42824aec", "name": "llm.stream", "start_ms": 0.9, "ms": 1044.53, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 312}}
+{"trace_id": "ed44e4384f9e", "span_id": "42824aec", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1045.75, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "694184087e6f", "span_id": "ceb8d5d4", "parent_id": "e0faa5ba", "name": "llm.stream", "start_ms": 0.89, "ms": 942.03, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 126}}
+{"trace_id": "694184087e6f", "span_id": "e0faa5ba", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 943.15, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "999c8d605355", "span_id": "6262fb98", "parent_id": "4e13b9a2", "name": "llm.stream", "start_ms": 0.87, "ms": 1036.33, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 182}}
+{"trace_id": "999c8d605355", "span_id": "4e13b9a2", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1037.81, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "04f70d9cfda1", "span_id": "8c4f815c", "parent_id": "417693ec", "name": "llm.stream", "start_ms": 1.55, "ms": 1019.17, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 126}}
+{"trace_id": "04f70d9cfda1", "span_id": "417693ec", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1020.92, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "2e1d9b13f7c4", "span_id": "9f993c23", "parent_id": "f5c3a7e6", "name": "llm.stream", "start_ms": 0.84, "ms": 991.32, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 125}}
+{"trace_id": "2e1d9b13f7c4", "span_id": "f5c3a7e6", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 992.6, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "f9375001ee5e", "span_id": "d8c9609c", "parent_id": "b53b640d", "name": "llm.stream", "start_ms": 0.89, "ms": 1092.91, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 250}}
+{"trace_id": "f9375001ee5e", "span_id": "b53b640d", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1094.03, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "2610ce8c6141", "span_id": "7c721d5f", "parent_id": "7bbf387b", "name": "llm.stream", "start_ms": 0.88, "ms": 1089.26, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 193}}
+{"trace_id": "2610ce8c6141", "span_id": "7bbf387b", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1090.56, "attrs": {"cache": "bypass", "error": null}}
+{"trace_id": "76df8e95fd26", "span_id": "a09c758c", "parent_id": "5347228a", "name": "embed", "start_ms": 0.03, "ms": 78.34, "attrs": {}}
+{"trace_id": "3856dcda245a", "span_id": "c60bb34f", "parent_id": "214f596b", "name": "embed", "start_ms": 0.04, "ms": 86.6, "attrs": {}}
+{"trace_id": "76df8e95fd26", "span_id": "5347228a", "parent_id": "e9d6ae46", "name": "cache.lookup", "start_ms": 0.02, "ms": 81.32, "attrs": {"hit": false, "score": 0.0}}
+{"trace_id": "3856dcda245a", "span_id": "214f596b", "parent_id": "b1284a5b", "name": "cache.lookup", "start_ms": 0.01, "ms": 89.33, "attrs": {"hit": false, "score": 0.0}}
+{"trace_id": "f3ee86f0b362", "span_id": "a473a1d1", "parent_id": "5c5a54a8", "name": "embed", "start_ms": 0.03, "ms": 91.52, "attrs": {}}
+{"trace_id": "ddfe43e1f1fe", "span_id": "d200101b", "parent_id": "3803dec5", "name": "embed", "start_ms": 0.03, "ms": 92.61, "attrs": {}}
+{"trace_id": "f3ee86f0b362", "span_id": "5c5a54a8", "parent_id": "ce417217", "name": "cache.lookup", "start_ms": 0.02, "ms": 99.42, "attrs": {"hit": false, "score": 0.0}}
+{"trace_id": "ddfe43e1f1fe", "span_id": "3803dec5", "parent_id": "4a8b9e4c", "name": "cache.lookup", "start_ms": 0.01, "ms": 97.41, "attrs": {"hit": false, "score": 0.0}}
+{"trace_id": "f3ee86f0b362", "span_id": "4f53ed76", "parent_id": "ce417217", "name": "llm.stream", "start_ms": 101.26, "ms": 1024.03, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 181}}
+{"trace_id": "f3ee86f0b362", "span_id": "f5173036", "parent_id": "ce417217", "name": "cache.store", "start_ms": 1125.43, "ms": 3.75, "attrs": {}}
+{"trace_id": "f3ee86f0b362", "span_id": "ce417217", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1129.38, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "3856dcda245a", "span_id": "ca14d53d", "parent_id": "b1284a5b", "name": "llm.stream", "start_ms": 94.7, "ms": 1045.73, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 197}}
+{"trace_id": "3856dcda245a", "span_id": "b2324ecd", "parent_id": "b1284a5b", "name": "cache.store", "start_ms": 1140.59, "ms": 2.38, "attrs": {}}
+{"trace_id": "3856dcda245a", "span_id": "b1284a5b", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1143.4, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "1c0436448cc0", "span_id": "8a34c2df", "parent_id": "9db8b2b7", "name": "embed", "start_ms": 0.03, "ms": 36.82, "attrs": {}}
+{"trace_id": "76df8e95fd26", "span_id": "d24b8c4c", "parent_id": "e9d6ae46", "name": "llm.stream", "start_ms": 84.31, "ms": 1084.95, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 257}}
+{"trace_id": "1c0436448cc0", "span_id": "9db8b2b7", "parent_id": "86d75271", "name": "cache.lookup", "start_ms": 0.02, "ms": 44.78, "attrs": {"hit": false, "score": -0.035}}
+{"trace_id": "76df8e95fd26", "span_id": "ce117d1c", "parent_id": "e9d6ae46", "name": "cache.store", "start_ms": 1169.67, "ms": 7.39, "attrs": {}}
+{"trace_id": "76df8e95fd26", "span_id": "e9d6ae46", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1177.66, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "b827e03be4ee", "span_id": "a2cdc890", "parent_id": "e54d374c", "name": "embed", "start_ms": 0.07, "ms": 41.69, "attrs": {}}
+{"trace_id": "ddfe43e1f1fe", "span_id": "a8934be2", "parent_id": "4a8b9e4c", "name": "llm.stream", "start_ms": 101.04, "ms": 1093.09, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 261}}
+{"trace_id": "b827e03be4ee", "span_id": "e54d374c", "parent_id": "1a01b9cc", "name": "cache.lookup", "start_ms": 0.05, "ms": 49.53, "attrs": {"hit": false, "score": 0.175}}
+{"trace_id": "ddfe43e1f1fe", "span_id": "8adf337e", "parent_id": "4a8b9e4c", "name": "cache.store", "start_ms": 1197.19, "ms": 10.52, "attrs": {}}
+{"trace_id": "ddfe43e1f1fe", "span_id": "4a8b9e4c", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1207.91, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "dd8fd2a53b67", "span_id": "a2d21a13", "parent_id": "b4129a29", "name": "embed", "start_ms": 0.02, "ms": 51.09, "attrs": {}}
+{"trace_id": "dd8fd2a53b67", "span_id": "b4129a29", "parent_id": "a529626e", "name": "cache.lookup", "start_ms": 0.02, "ms": 55.94, "attrs": {"hit": false, "score": 0.167}}
+{"trace_id": "0eeb530f4c2c", "span_id": "e6bc7307", "parent_id": "738ee83c", "name": "embed", "start_ms": 0.04, "ms": 38.88, "attrs": {}}
+{"trace_id": "0eeb530f4c2c", "span_id": "738ee83c", "parent_id": "56a2fb26", "name": "cache.lookup", "start_ms": 0.03, "ms": 40.55, "attrs": {"hit": false, "score": 0.158}}
+{"trace_id": "b827e03be4ee", "span_id": "30028d2e", "parent_id": "1a01b9cc", "name": "llm.stream", "start_ms": 52.89, "ms": 989.17, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 177}}
+{"trace_id": "b827e03be4ee", "span_id": "b898ab7d", "parent_id": "1a01b9cc", "name": "cache.store", "start_ms": 1042.2, "ms": 3.1, "attrs": {}}
+{"trace_id": "b827e03be4ee", "span_id": "1a01b9cc", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1049.71, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "66593d6933ef", "span_id": "cdbca963", "parent_id": "679b22a3", "name": "embed", "start_ms": 0.03, "ms": 18.26, "attrs": {}}
+{"trace_id": "66593d6933ef", "span_id": "679b22a3", "parent_id": "f540ecd6", "name": "cache.lookup", "start_ms": 0.02, "ms": 19.94, "attrs": {"hit": false, "score": 0.159}}
+{"trace_id": "0eeb530f4c2c", "span_id": "6b2a683b", "parent_id": "56a2fb26", "name": "llm.stream", "start_ms": 41.37, "ms": 1030.67, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 228}}
+{"trace_id": "0eeb530f4c2c", "span_id": "83222faa", "parent_id": "56a2fb26", "name": "cache.store", "start_ms": 1072.29, "ms": 3.46, "attrs": {}}
+{"trace_id": "0eeb530f4c2c", "span_id": "56a2fb26", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1076.09, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "de502c1c909b", "span_id": "2ec7ebc0", "parent_id": "070a3472", "name": "embed", "start_ms": 0.03, "ms": 17.03, "attrs": {}}
+{"trace_id": "de502c1c909b", "span_id": "070a3472", "parent_id": "fa8a45f7", "name": "cache.lookup", "start_ms": 0.02, "ms": 18.71, "attrs": {"hit": false, "score": 0.842}}
+{"trace_id": "1c0436448cc0", "span_id": "6a7b86a6", "parent_id": "86d75271", "name": "llm.stream", "start_ms": 46.43, "ms": 1204.76, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 427}}
+{"trace_id": "1c0436448cc0", "span_id": "a81928b5", "parent_id": "86d75271", "name": "cache.store", "start_ms": 1251.32, "ms": 3.11, "attrs": {}}
+{"trace_id": "1c0436448cc0", "span_id": "86d75271", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1254.63, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "e54c81f4ac94", "span_id": "f36804bf", "parent_id": "2fbfd154", "name": "embed", "start_ms": 0.03, "ms": 17.37, "attrs": {}}
+{"trace_id": "e54c81f4ac94", "span_id": "2fbfd154", "parent_id": "d26a36be", "name": "cache.lookup", "start_ms": 0.02, "ms": 19.36, "attrs": {"hit": true, "score": 0.864}}
+{"trace_id": "e54c81f4ac94", "span_id": "d26a36be", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 21.16, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "dd8fd2a53b67", "span_id": "43f23718", "parent_id": "a529626e", "name": "llm.stream", "start_ms": 56.94, "ms": 1170.58, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 288}}
+{"trace_id": "dd8fd2a53b67", "span_id": "ed838358", "parent_id": "a529626e", "name": "cache.store", "start_ms": 1228.93, "ms": 4.53, "attrs": {}}
+{"trace_id": "dd8fd2a53b67", "span_id": "a529626e", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1233.66, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "00a459f13a10", "span_id": "8f0582c5", "parent_id": "2a4dfb13", "name": "embed", "start_ms": 0.02, "ms": 34.73, "attrs": {}}
+{"trace_id": "00a459f13a10", "span_id": "2a4dfb13", "parent_id": "70c501db", "name": "cache.lookup", "start_ms": 0.01, "ms": 37.47, "attrs": {"hit": false, "score": 0.593}}
+{"trace_id": "50fdb7966b96", "span_id": "4d752956", "parent_id": "709b2bc3", "name": "embed", "start_ms": 0.05, "ms": 34.96, "attrs": {}}
+{"trace_id": "50fdb7966b96", "span_id": "709b2bc3", "parent_id": "628768c4", "name": "cache.lookup", "start_ms": 0.04, "ms": 37.31, "attrs": {"hit": true, "score": 0.956}}
+{"trace_id": "50fdb7966b96", "span_id": "628768c4", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 39.47, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "8e1d0438081d", "span_id": "f4e083cd", "parent_id": "84f22744", "name": "embed", "start_ms": 0.03, "ms": 20.0, "attrs": {}}
+{"trace_id": "8e1d0438081d", "span_id": "84f22744", "parent_id": "94d5a2b8", "name": "cache.lookup", "start_ms": 0.02, "ms": 22.22, "attrs": {"hit": false, "score": 0.156}}
+{"trace_id": "66593d6933ef", "span_id": "67c0fcc8", "parent_id": "f540ecd6", "name": "llm.stream", "start_ms": 20.85, "ms": 1111.68, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 243}}
+{"trace_id": "66593d6933ef", "span_id": "311e5401", "parent_id": "f540ecd6", "name": "cache.store", "start_ms": 1132.67, "ms": 2.98, "attrs": {}}
+{"trace_id": "66593d6933ef", "span_id": "f540ecd6", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1135.87, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "f283e9c7975d", "span_id": "31a334a4", "parent_id": "e936388c", "name": "embed", "start_ms": 0.03, "ms": 19.43, "attrs": {}}
+{"trace_id": "f283e9c7975d", "span_id": "e936388c", "parent_id": "e98027b2", "name": "cache.lookup", "start_ms": 0.02, "ms": 22.97, "attrs": {"hit": false, "score": 0.144}}
+{"trace_id": "de502c1c909b", "span_id": "048f7ea8", "parent_id": "fa8a45f7", "name": "llm.stream", "start_ms": 19.55, "ms": 1144.12, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 265}}
+{"trace_id": "de502c1c909b", "span_id": "9eb46b59", "parent_id": "fa8a45f7", "name": "cache.store", "start_ms": 1163.81, "ms": 2.94, "attrs": {}}
+{"trace_id": "de502c1c909b", "span_id": "fa8a45f7", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1166.95, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "00a459f13a10", "span_id": "81135b78", "parent_id": "70c501db", "name": "llm.stream", "start_ms": 38.66, "ms": 1025.3, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 196}}
+{"trace_id": "00a459f13a10", "span_id": "e4145a10", "parent_id": "70c501db", "name": "cache.store", "start_ms": 1064.09, "ms": 2.99, "attrs": {}}
+{"trace_id": "00a459f13a10", "span_id": "70c501db", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1067.39, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "2383df21b436", "span_id": "65b756ba", "parent_id": "7ee9610f", "name": "embed", "start_ms": 0.03, "ms": 35.38, "attrs": {}}
+{"trace_id": "2383df21b436", "span_id": "7ee9610f", "parent_id": "3d031cc1", "name": "cache.lookup", "start_ms": 0.02, "ms": 39.96, "attrs": {"hit": true, "score": 0.942}}
+{"trace_id": "2383df21b436", "span_id": "3d031cc1", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 42.07, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "ea7323bbd143", "span_id": "1bfdab6a", "parent_id": "80386f45", "name": "embed", "start_ms": 0.04, "ms": 35.07, "attrs": {}}
+{"trace_id": "ea7323bbd143", "span_id": "80386f45", "parent_id": "e6fb3748", "name": "cache.lookup", "start_ms": 0.02, "ms": 38.8, "attrs": {"hit": false, "score": 0.369}}
+{"trace_id": "b5277c3f840b", "span_id": "602df859", "parent_id": "8b2a2c23", "name": "embed", "start_ms": 0.04, "ms": 26.3, "attrs": {}}
+{"trace_id": "b5277c3f840b", "span_id": "8b2a2c23", "parent_id": "c0a36ed6", "name": "cache.lookup", "start_ms": 0.03, "ms": 28.05, "attrs": {"hit": false, "score": 0.183}}
+{"trace_id": "8e1d0438081d", "span_id": "07c1771b", "parent_id": "94d5a2b8", "name": "llm.stream", "start_ms": 23.12, "ms": 1088.95, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 271}}
+{"trace_id": "8e1d0438081d", "span_id": "de93f232", "parent_id": "94d5a2b8", "name": "cache.store", "start_ms": 1112.18, "ms": 5.39, "attrs": {}}
+{"trace_id": "8e1d0438081d", "span_id": "94d5a2b8", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1117.76, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "1801a0abf595", "span_id": "e499be3b", "parent_id": "7ce51bcd", "name": "embed", "start_ms": 0.03, "ms": 27.97, "attrs": {}}
+{"trace_id": "1801a0abf595", "span_id": "7ce51bcd", "parent_id": "0aa59ec2", "name": "cache.lookup", "start_ms": 0.02, "ms": 29.96, "attrs": {"hit": false, "score": 0.781}}
+{"trace_id": "f283e9c7975d", "span_id": "085016d2", "parent_id": "e98027b2", "name": "llm.stream", "start_ms": 23.97, "ms": 950.92, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 166}}
+{"trace_id": "f283e9c7975d", "span_id": "30846875", "parent_id": "e98027b2", "name": "cache.store", "start_ms": 975.04, "ms": 3.17, "attrs": {}}
+{"trace_id": "f283e9c7975d", "span_id": "e98027b2", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 978.46, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "6b53c1de3ec6", "span_id": "73339c66", "parent_id": "b902339d", "name": "embed", "start_ms": 0.03, "ms": 23.11, "attrs": {}}
+{"trace_id": "6b53c1de3ec6", "span_id": "b902339d", "parent_id": "7deb35cc", "name": "cache.lookup", "start_ms": 0.02, "ms": 25.4, "attrs": {"hit": true, "score": 0.941}}
+{"trace_id": "6b53c1de3ec6", "span_id": "7deb35cc", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 27.39, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "22adda7028cd", "span_id": "6661e6e9", "parent_id": "f604bc03", "name": "embed", "start_ms": 0.03, "ms": 16.34, "attrs": {}}
+{"trace_id": "22adda7028cd", "span_id": "f604bc03", "parent_id": "f988e0b2", "name": "cache.lookup", "start_ms": 0.02, "ms": 18.37, "attrs": {"hit": false, "score": 0.722}}
+{"trace_id": "ea7323bbd143", "span_id": "230590d7", "parent_id": "e6fb3748", "name": "llm.stream", "start_ms": 39.97, "ms": 1088.54, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 303}}
+{"trace_id": "ea7323bbd143", "span_id": "71459f35", "parent_id": "e6fb3748", "name": "cache.store", "start_ms": 1128.78, "ms": 3.43, "attrs": {}}
+{"trace_id": "ea7323bbd143", "span_id": "e6fb3748", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1132.55, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "93c1803ff128", "span_id": "753cbc57", "parent_id": "e5478ab1", "name": "embed", "start_ms": 0.03, "ms": 22.09, "attrs": {}}
+{"trace_id": "93c1803ff128", "span_id": "e5478ab1", "parent_id": "3644ef69", "name": "cache.lookup", "start_ms": 0.02, "ms": 24.19, "attrs": {"hit": false, "score": 0.622}}
+{"trace_id": "b5277c3f840b", "span_id": "16608af7", "parent_id": "c0a36ed6", "name": "llm.stream", "start_ms": 28.93, "ms": 1112.45, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 376}}
+{"trace_id": "b5277c3f840b", "span_id": "49b101b2", "parent_id": "c0a36ed6", "name": "cache.store", "start_ms": 1141.51, "ms": 2.18, "attrs": {}}
+{"trace_id": "b5277c3f840b", "span_id": "c0a36ed6", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1143.86, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "6198333dcd9c", "span_id": "df99c80f", "parent_id": "d7e66e7e", "name": "embed", "start_ms": 0.03, "ms": 19.8, "attrs": {}}
+{"trace_id": "6198333dcd9c", "span_id": "d7e66e7e", "parent_id": "e5928d96", "name": "cache.lookup", "start_ms": 0.02, "ms": 25.98, "attrs": {"hit": true, "score": 0.916}}
+{"trace_id": "1801a0abf595", "span_id": "6a9ecc15", "parent_id": "0aa59ec2", "name": "llm.stream", "start_ms": 30.84, "ms": 1067.07, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 263}}
+{"trace_id": "6198333dcd9c", "span_id": "e5928d96", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 31.1, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "1801a0abf595", "span_id": "85e83553", "parent_id": "0aa59ec2", "name": "cache.store", "start_ms": 1098.02, "ms": 3.29, "attrs": {}}
+{"trace_id": "1801a0abf595", "span_id": "0aa59ec2", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1101.45, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "f2fb9dd62ed6", "span_id": "6543a9da", "parent_id": "af0d8dfc", "name": "embed", "start_ms": 0.03, "ms": 31.89, "attrs": {}}
+{"trace_id": "f2fb9dd62ed6", "span_id": "af0d8dfc", "parent_id": "3eb02153", "name": "cache.lookup", "start_ms": 0.02, "ms": 35.98, "attrs": {"hit": true, "score": 0.861}}
+{"trace_id": "f2fb9dd62ed6", "span_id": "3eb02153", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 38.58, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "fb7828e28a03", "span_id": "ce513805", "parent_id": "24172460", "name": "embed", "start_ms": 0.02, "ms": 35.97, "attrs": {}}
+{"trace_id": "fb7828e28a03", "span_id": "24172460", "parent_id": "81a8419b", "name": "cache.lookup", "start_ms": 0.01, "ms": 39.97, "attrs": {"hit": true, "score": 0.924}}
+{"trace_id": "fb7828e28a03", "span_id": "81a8419b", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 42.58, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "3995f5a7d1fc", "span_id": "61015e6a", "parent_id": "bc49c202", "name": "embed", "start_ms": 0.03, "ms": 34.25, "attrs": {}}
+{"trace_id": "3995f5a7d1fc", "span_id": "bc49c202", "parent_id": "7de38817", "name": "cache.lookup", "start_ms": 0.02, "ms": 36.97, "attrs": {"hit": false, "score": 0.744}}
+{"trace_id": "1ab325c5442c", "span_id": "4e8a2034", "parent_id": "fa53e6d5", "name": "embed", "start_ms": 0.04, "ms": 31.72, "attrs": {}}
+{"trace_id": "1ab325c5442c", "span_id": "fa53e6d5", "parent_id": "8686fa2e", "name": "cache.lookup", "start_ms": 0.02, "ms": 34.11, "attrs": {"hit": true, "score": 0.939}}
+{"trace_id": "1ab325c5442c", "span_id": "8686fa2e", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 35.75, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "5e275422c5b9", "span_id": "6bb0a278", "parent_id": "145837f2", "name": "embed", "start_ms": 0.03, "ms": 23.46, "attrs": {}}
+{"trace_id": "5e275422c5b9", "span_id": "145837f2", "parent_id": "1d13dca5", "name": "cache.lookup", "start_ms": 0.02, "ms": 27.2, "attrs": {"hit": true, "score": 0.926}}
+{"trace_id": "5e275422c5b9", "span_id": "1d13dca5", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 31.24, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "4ac9f61c438f", "span_id": "52ab05cd", "parent_id": "d035abb4", "name": "embed", "start_ms": 0.06, "ms": 17.24, "attrs": {}}
+{"trace_id": "4ac9f61c438f", "span_id": "d035abb4", "parent_id": "366aef9b", "name": "cache.lookup", "start_ms": 0.04, "ms": 20.12, "attrs": {"hit": true, "score": 0.857}}
+{"trace_id": "4ac9f61c438f", "span_id": "366aef9b", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 22.47, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "242c0c0849b7", "span_id": "40cd50ed", "parent_id": "e265d83c", "name": "embed", "start_ms": 0.03, "ms": 17.04, "attrs": {}}
+{"trace_id": "242c0c0849b7", "span_id": "e265d83c", "parent_id": "e903f708", "name": "cache.lookup", "start_ms": 0.02, "ms": 19.48, "attrs": {"hit": true, "score": 0.879}}
+{"trace_id": "242c0c0849b7", "span_id": "e903f708", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 21.31, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "7604bc495dc4", "span_id": "40146eaa", "parent_id": "867f3cac", "name": "embed", "start_ms": 0.03, "ms": 17.16, "attrs": {}}
+{"trace_id": "7604bc495dc4", "span_id": "867f3cac", "parent_id": "0016317b", "name": "cache.lookup", "start_ms": 0.02, "ms": 19.57, "attrs": {"hit": true, "score": 0.879}}
+{"trace_id": "7604bc495dc4", "span_id": "0016317b", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 21.43, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "4b315a1e7d84", "span_id": "8f8199cc", "parent_id": "1dbd06ed", "name": "embed", "start_ms": 0.05, "ms": 15.83, "attrs": {}}
+{"trace_id": "4b315a1e7d84", "span_id": "1dbd06ed", "parent_id": "23716bbd", "name": "cache.lookup", "start_ms": 0.02, "ms": 18.06, "attrs": {"hit": true, "score": 0.888}}
+{"trace_id": "4b315a1e7d84", "span_id": "23716bbd", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 19.87, "attrs": {"cache": "hit", "error": null}}
+{"trace_id": "22adda7028cd", "span_id": "2429e32c", "parent_id": "f988e0b2", "name": "llm.stream", "start_ms": 19.26, "ms": 926.61, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 124}}
+{"trace_id": "22adda7028cd", "span_id": "eefcec51", "parent_id": "f988e0b2", "name": "cache.store", "start_ms": 946.08, "ms": 3.15, "attrs": {}}
+{"trace_id": "22adda7028cd", "span_id": "f988e0b2", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 949.43, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "93c1803ff128", "span_id": "41eba5c4", "parent_id": "3644ef69", "name": "llm.stream", "start_ms": 26.0, "ms": 1066.58, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 283}}
+{"trace_id": "93c1803ff128", "span_id": "f5fa0515", "parent_id": "3644ef69", "name": "cache.store", "start_ms": 1092.71, "ms": 3.18, "attrs": {}}
+{"trace_id": "93c1803ff128", "span_id": "3644ef69", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1096.09, "attrs": {"cache": "miss", "error": null}}
+{"trace_id": "3995f5a7d1fc", "span_id": "7e9cc16a", "parent_id": "7de38817", "name": "llm.stream", "start_ms": 38.05, "ms": 1024.72, "attrs": {"model": "gemini-2.5-flash-lite", "chars": 312}}
+{"trace_id": "3995f5a7d1fc", "span_id": "c95b6a08", "parent_id": "7de38817", "name": "cache.store", "start_ms": 1062.92, "ms": 3.95, "attrs": {}}
+{"trace_id": "3995f5a7d1fc", "span_id": "7de38817", "parent_id": null, "name": "request", "start_ms": 0.0, "ms": 1067.08, "attrs": {"cache": "miss", "error": null}}

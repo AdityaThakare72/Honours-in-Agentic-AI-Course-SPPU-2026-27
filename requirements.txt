@@ -1,0 +1,62 @@
+# Core
+python-dotenv
+openai>=2
+pandas
+numpy
+matplotlib
+scikit-learn
+ipykernel
+nbconvert
+
+# Experiment 1-2: tokenization, generation, LoRA
+torch
+transformers
+tokenizers
+tiktoken
+datasets
+peft
+accelerate
+# bitsandbytes   # GPU only, needed for 4-bit loading in Experiments 2 and 7
+
+# Experiment 3-4: prompting, RAG
+huggingface-hub>=1.5,<2
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+ragas==0.4.3
+
+# Experiment 5-6: semantic search, vector databases
+sentence-transformers
+faiss-cpu
+qdrant-client
+pinecone
+pypdf
+
+# Experiment 7: vision-language models
+pillow
+
+# Experiment 8: speech
+faster-whisper
+jiwer
+librosa
+soundfile
+gTTS
+elevenlabs
+# sounddevice    # only for the optional live-microphone cell
+
+# Experiment 9: agents
+langgraph
+langgraph-checkpoint-sqlite
+ddgs
+
+# Experiment 10: microservice
+fastapi
+uvicorn
+httpx
+pydantic
+redis
+langsmith

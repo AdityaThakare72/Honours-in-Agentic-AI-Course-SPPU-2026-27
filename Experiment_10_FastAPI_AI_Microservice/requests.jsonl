@@ -1,0 +1,191 @@
+{"ts": 1793343377.238, "kind": "http", "request_id": "853f43e97b0b", "method": "GET", "path": "/health", "status": 200, "ttfb_ms": 1.2}
+{"ts": 1793343377.254, "kind": "http", "request_id": "1ac49a22dd4b", "method": "GET", "path": "/health", "status": 200, "ttfb_ms": 0.6}
+{"ts": 1793343377.282, "kind": "http", "request_id": "6ce023d7e504", "method": "GET", "path": "/metrics", "status": 401, "ttfb_ms": 1.5}
+{"ts": 1793343377.296, "kind": "http", "request_id": "bf93ad8b5737", "method": "GET", "path": "/metrics", "status": 401, "ttfb_ms": 0.7}
+{"ts": 1793343377.312, "kind": "http", "request_id": "9a3787befc19", "method": "GET", "path": "/metrics", "status": 401, "ttfb_ms": 0.7}
+{"ts": 1793343377.341, "kind": "http", "request_id": "2be1d4d8db41", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 10.7}
+{"ts": 1793343377.364, "kind": "http", "request_id": "aa1100439782", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.5}
+{"ts": 1793343377.384, "kind": "http", "request_id": "3f2928f2f28f", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.9}
+{"ts": 1793343377.406, "kind": "http", "request_id": "8fac4486b153", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 7.1}
+{"ts": 1793343377.431, "kind": "http", "request_id": "a1d4f7fdcb2e", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.4}
+{"ts": 1793343377.451, "kind": "http", "request_id": "706b7be62ef6", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.9}
+{"ts": 1793343377.483, "kind": "http", "request_id": "0590a832d9d3", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 6.7}
+{"ts": 1793343377.507, "kind": "http", "request_id": "c507440b7516", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 6.3}
+{"ts": 1793343377.527, "kind": "http", "request_id": "b5b133a8118f", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 6.4}
+{"ts": 1793343377.553, "kind": "http", "request_id": "4686b4757cfc", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 6.1}
+{"ts": 1793343377.573, "kind": "http", "request_id": "916dacd12b72", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.4}
+{"ts": 1793343377.591, "kind": "http", "request_id": "76e3d512ddfa", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.0}
+{"ts": 1793343377.609, "kind": "http", "request_id": "46a01a501c66", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343377.627, "kind": "http", "request_id": "3bd9d7031b7d", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343377.644, "kind": "http", "request_id": "7d1108e60df5", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343377.661, "kind": "http", "request_id": "c1d059b8a143", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.2}
+{"ts": 1793343377.68, "kind": "http", "request_id": "a82c7d31bb51", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343377.698, "kind": "http", "request_id": "12fa3cda4dc4", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.3}
+{"ts": 1793343377.716, "kind": "http", "request_id": "eb6c4ff6ec56", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343377.735, "kind": "http", "request_id": "445fd512886c", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 4.1}
+{"ts": 1793343377.752, "kind": "http", "request_id": "5417805c6736", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.9}
+{"ts": 1793343377.769, "kind": "http", "request_id": "cab9a040f57c", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.8}
+{"ts": 1793343377.785, "kind": "http", "request_id": "f70eea0ed08e", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.5}
+{"ts": 1793343377.802, "kind": "http", "request_id": "c3a77aa703b6", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.8}
+{"ts": 1793343377.818, "kind": "http", "request_id": "e53df9942471", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.5}
+{"ts": 1793343377.835, "kind": "http", "request_id": "7e3bc1a8073b", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.8}
+{"ts": 1793343377.852, "kind": "http", "request_id": "45c36c661b46", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.6}
+{"ts": 1793343377.869, "kind": "http", "request_id": "ab6a0674efdb", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.2}
+{"ts": 1793343377.887, "kind": "http", "request_id": "6e1a17649e96", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343377.904, "kind": "http", "request_id": "b987ff1a7f20", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.8}
+{"ts": 1793343377.921, "kind": "http", "request_id": "4b048e66e78c", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.2}
+{"ts": 1793343377.939, "kind": "http", "request_id": "51c4a6a2a797", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.6}
+{"ts": 1793343377.957, "kind": "http", "request_id": "efdccffa5780", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343377.974, "kind": "http", "request_id": "2fc4eaf7df58", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.4}
+{"ts": 1793343377.991, "kind": "http", "request_id": "253cf0a7b0a6", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.3}
+{"ts": 1793343378.012, "kind": "http", "request_id": "be27cdf87672", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.2}
+{"ts": 1793343378.03, "kind": "http", "request_id": "38e954914ad0", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.6}
+{"ts": 1793343378.046, "kind": "http", "request_id": "62bc1283b80e", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.3}
+{"ts": 1793343378.064, "kind": "http", "request_id": "19b807cdef62", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 2.9}
+{"ts": 1793343378.082, "kind": "http", "request_id": "70744e38fe59", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343378.131, "kind": "http", "request_id": "c13891e2ac31", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 2.9}
+{"ts": 1793343378.148, "kind": "http", "request_id": "70522fa12f12", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 3.0}
+{"ts": 1793343378.164, "kind": "http", "request_id": "93f01fb465c7", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 2.4}
+{"ts": 1793343378.179, "kind": "http", "request_id": "3e5f81a3e539", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 1.7}
+{"ts": 1793343378.194, "kind": "http", "request_id": "06c3b70fbfe1", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 1.8}
+{"ts": 1793343378.212, "kind": "http", "request_id": "d780fc7925e8", "method": "GET", "path": "/metrics", "status": 429, "ttfb_ms": 1.8}
+{"ts": 1793343399.552, "kind": "http", "request_id": "18288b99aaba", "method": "GET", "path": "/health", "status": 200, "ttfb_ms": 1.1}
+{"ts": 1793343399.635, "kind": "http", "request_id": "7dd12dfb6459", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 59.2}
+{"ts": 1793343401.354, "kind": "chat", "request_id": "7dd12dfb6459", "cache": "miss", "score": 0.0, "ttft_ms": 1669.1, "total_ms": 1768.6, "error": null, "prompt_chars": 30}
+{"ts": 1793343401.389, "kind": "http", "request_id": "3cd97bf201ab", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 21.6}
+{"ts": 1793343401.39, "kind": "chat", "request_id": "3cd97bf201ab", "cache": "hit", "score": 0.942, "ttft_ms": 19.3, "total_ms": 20.2, "error": null, "prompt_chars": 36}
+{"ts": 1793343401.424, "kind": "http", "request_id": "510a9f6a93ec", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 18.7}
+{"ts": 1793343402.512, "kind": "chat", "request_id": "510a9f6a93ec", "cache": "miss", "score": 0.663, "ttft_ms": 946.1, "total_ms": 1104.5, "error": null, "prompt_chars": 31}
+{"ts": 1793343402.546, "kind": "http", "request_id": "0c913c538739", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 21.0}
+{"ts": 1793343402.549, "kind": "chat", "request_id": "0c913c538739", "cache": "hit", "score": 0.942, "ttft_ms": 19.4, "total_ms": 21.6, "error": null, "prompt_chars": 36}
+{"ts": 1793343402.715, "kind": "http", "request_id": "d46542f173c3", "method": "POST", "path": "/cache/clear", "status": 200, "ttfb_ms": 3.8}
+{"ts": 1793343402.792, "kind": "http", "request_id": "7a087284ce0f", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 9.0}
+{"ts": 1793343402.801, "kind": "http", "request_id": "87827a337a26", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 16.7}
+{"ts": 1793343402.806, "kind": "http", "request_id": "18b516c2ddea", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 21.9}
+{"ts": 1793343402.809, "kind": "http", "request_id": "c26836e5a5ae", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 25.5}
+{"ts": 1793343403.852, "kind": "chat", "request_id": "c26836e5a5ae", "cache": "bypass", "score": 0.0, "ttft_ms": 912.8, "total_ms": 1044.8, "error": null, "prompt_chars": 32}
+{"ts": 1793343403.859, "kind": "http", "request_id": "5caa686340c5", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.9}
+{"ts": 1793343403.9, "kind": "chat", "request_id": "7a087284ce0f", "cache": "bypass", "score": 0.0, "ttft_ms": 914.7, "total_ms": 1108.7, "error": null, "prompt_chars": 45}
+{"ts": 1793343403.906, "kind": "chat", "request_id": "87827a337a26", "cache": "bypass", "score": 0.0, "ttft_ms": 913.3, "total_ms": 1105.9, "error": null, "prompt_chars": 43}
+{"ts": 1793343403.91, "kind": "http", "request_id": "8a85a7169e75", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 7.2}
+{"ts": 1793343403.916, "kind": "http", "request_id": "1af704e35b4f", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 7.0}
+{"ts": 1793343403.952, "kind": "chat", "request_id": "18b516c2ddea", "cache": "bypass", "score": 0.0, "ttft_ms": 921.7, "total_ms": 1146.3, "error": null, "prompt_chars": 24}
+{"ts": 1793343403.96, "kind": "http", "request_id": "8636bb57caa5", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.5}
+{"ts": 1793343404.986, "kind": "chat", "request_id": "8a85a7169e75", "cache": "bypass", "score": 0.0, "ttft_ms": 949.1, "total_ms": 1077.1, "error": null, "prompt_chars": 36}
+{"ts": 1793343404.996, "kind": "http", "request_id": "2ad7cddee1f0", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 4.9}
+{"ts": 1793343405.012, "kind": "chat", "request_id": "8636bb57caa5", "cache": "bypass", "score": 0.0, "ttft_ms": 886.2, "total_ms": 1052.6, "error": null, "prompt_chars": 27}
+{"ts": 1793343405.018, "kind": "http", "request_id": "ad9ea9c70b78", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.9}
+{"ts": 1793343405.022, "kind": "chat", "request_id": "5caa686340c5", "cache": "bypass", "score": 0.0, "ttft_ms": 867.9, "total_ms": 1163.6, "error": null, "prompt_chars": 39}
+{"ts": 1793343405.028, "kind": "http", "request_id": "926bcb83a195", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.6}
+{"ts": 1793343405.082, "kind": "chat", "request_id": "1af704e35b4f", "cache": "bypass", "score": 0.0, "ttft_ms": 941.0, "total_ms": 1167.0, "error": null, "prompt_chars": 42}
+{"ts": 1793343405.088, "kind": "http", "request_id": "94ed26881634", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 2.8}
+{"ts": 1793343406.1, "kind": "chat", "request_id": "2ad7cddee1f0", "cache": "bypass", "score": 0.0, "ttft_ms": 908.2, "total_ms": 1104.4, "error": null, "prompt_chars": 34}
+{"ts": 1793343406.107, "kind": "http", "request_id": "f2d5e5f90b2f", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 4.0}
+{"ts": 1793343406.114, "kind": "chat", "request_id": "94ed26881634", "cache": "bypass", "score": 0.0, "ttft_ms": 922.5, "total_ms": 1026.6, "error": null, "prompt_chars": 38}
+{"ts": 1793343406.12, "kind": "http", "request_id": "a85301f279c0", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.4}
+{"ts": 1793343406.16, "kind": "chat", "request_id": "926bcb83a195", "cache": "bypass", "score": 0.0, "ttft_ms": 995.3, "total_ms": 1132.2, "error": null, "prompt_chars": 34}
+{"ts": 1793343406.171, "kind": "http", "request_id": "7f3fa8df66d4", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 4.6}
+{"ts": 1793343406.194, "kind": "chat", "request_id": "ad9ea9c70b78", "cache": "bypass", "score": 0.0, "ttft_ms": 1014.4, "total_ms": 1177.5, "error": null, "prompt_chars": 23}
+{"ts": 1793343406.199, "kind": "http", "request_id": "63dfb52481b5", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.1}
+{"ts": 1793343407.192, "kind": "chat", "request_id": "f2d5e5f90b2f", "cache": "bypass", "score": 0.0, "ttft_ms": 927.9, "total_ms": 1086.1, "error": null, "prompt_chars": 45}
+{"ts": 1793343407.2, "kind": "http", "request_id": "9eafa44bf96d", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 4.6}
+{"ts": 1793343407.239, "kind": "chat", "request_id": "63dfb52481b5", "cache": "bypass", "score": 0.0, "ttft_ms": 920.3, "total_ms": 1039.5, "error": null, "prompt_chars": 30}
+{"ts": 1793343407.24, "kind": "chat", "request_id": "7f3fa8df66d4", "cache": "bypass", "score": 0.0, "ttft_ms": 942.1, "total_ms": 1070.6, "error": null, "prompt_chars": 21}
+{"ts": 1793343407.246, "kind": "http", "request_id": "997602e5a834", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.1}
+{"ts": 1793343407.25, "kind": "http", "request_id": "e0c3a72128b1", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 8.0}
+{"ts": 1793343407.326, "kind": "chat", "request_id": "a85301f279c0", "cache": "bypass", "score": 0.0, "ttft_ms": 1019.3, "total_ms": 1206.8, "error": null, "prompt_chars": 43}
+{"ts": 1793343407.332, "kind": "http", "request_id": "8e3b4e9d5663", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343408.418, "kind": "chat", "request_id": "9eafa44bf96d", "cache": "bypass", "score": 0.0, "ttft_ms": 943.9, "total_ms": 1218.6, "error": null, "prompt_chars": 28}
+{"ts": 1793343408.424, "kind": "http", "request_id": "33abde9f0164", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.6}
+{"ts": 1793343408.437, "kind": "chat", "request_id": "8e3b4e9d5663", "cache": "bypass", "score": 0.0, "ttft_ms": 919.2, "total_ms": 1105.0, "error": null, "prompt_chars": 60}
+{"ts": 1793343408.443, "kind": "http", "request_id": "c464befaa449", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.8}
+{"ts": 1793343408.516, "kind": "chat", "request_id": "e0c3a72128b1", "cache": "bypass", "score": 0.0, "ttft_ms": 1008.8, "total_ms": 1266.3, "error": null, "prompt_chars": 27}
+{"ts": 1793343408.522, "kind": "http", "request_id": "178f9f7a83f8", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.3}
+{"ts": 1793343408.532, "kind": "chat", "request_id": "997602e5a834", "cache": "bypass", "score": 0.0, "ttft_ms": 1017.0, "total_ms": 1286.1, "error": null, "prompt_chars": 36}
+{"ts": 1793343408.537, "kind": "http", "request_id": "9362f639da05", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 2.9}
+{"ts": 1793343409.395, "kind": "chat", "request_id": "33abde9f0164", "cache": "bypass", "score": 0.0, "ttft_ms": 860.4, "total_ms": 971.0, "error": null, "prompt_chars": 27}
+{"ts": 1793343409.401, "kind": "http", "request_id": "d768cdbb3e6c", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.9}
+{"ts": 1793343409.474, "kind": "chat", "request_id": "c464befaa449", "cache": "bypass", "score": 0.0, "ttft_ms": 825.3, "total_ms": 1031.7, "error": null, "prompt_chars": 46}
+{"ts": 1793343409.48, "kind": "http", "request_id": "ed44e4384f9e", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.3}
+{"ts": 1793343409.603, "kind": "chat", "request_id": "9362f639da05", "cache": "bypass", "score": 0.0, "ttft_ms": 848.6, "total_ms": 1066.1, "error": null, "prompt_chars": 35}
+{"ts": 1793343409.609, "kind": "http", "request_id": "999c8d605355", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343409.658, "kind": "chat", "request_id": "178f9f7a83f8", "cache": "bypass", "score": 0.0, "ttft_ms": 919.2, "total_ms": 1136.4, "error": null, "prompt_chars": 47}
+{"ts": 1793343409.664, "kind": "http", "request_id": "694184087e6f", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.8}
+{"ts": 1793343410.416, "kind": "chat", "request_id": "d768cdbb3e6c", "cache": "bypass", "score": 0.0, "ttft_ms": 915.7, "total_ms": 1015.5, "error": null, "prompt_chars": 25}
+{"ts": 1793343410.427, "kind": "http", "request_id": "04f70d9cfda1", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 5.4}
+{"ts": 1793343410.526, "kind": "chat", "request_id": "ed44e4384f9e", "cache": "bypass", "score": 0.0, "ttft_ms": 852.4, "total_ms": 1045.7, "error": null, "prompt_chars": 25}
+{"ts": 1793343410.532, "kind": "http", "request_id": "2e1d9b13f7c4", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.7}
+{"ts": 1793343410.607, "kind": "chat", "request_id": "694184087e6f", "cache": "bypass", "score": 0.0, "ttft_ms": 859.4, "total_ms": 943.1, "error": null, "prompt_chars": 39}
+{"ts": 1793343410.613, "kind": "http", "request_id": "f9375001ee5e", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 3.9}
+{"ts": 1793343410.647, "kind": "chat", "request_id": "999c8d605355", "cache": "bypass", "score": 0.0, "ttft_ms": 935.4, "total_ms": 1037.6, "error": null, "prompt_chars": 34}
+{"ts": 1793343410.658, "kind": "http", "request_id": "2610ce8c6141", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343411.447, "kind": "chat", "request_id": "04f70d9cfda1", "cache": "bypass", "score": 0.0, "ttft_ms": 941.9, "total_ms": 1020.9, "error": null, "prompt_chars": 41}
+{"ts": 1793343411.525, "kind": "chat", "request_id": "2e1d9b13f7c4", "cache": "bypass", "score": 0.0, "ttft_ms": 883.5, "total_ms": 992.5, "error": null, "prompt_chars": 45}
+{"ts": 1793343411.707, "kind": "chat", "request_id": "f9375001ee5e", "cache": "bypass", "score": 0.0, "ttft_ms": 942.5, "total_ms": 1094.0, "error": null, "prompt_chars": 47}
+{"ts": 1793343411.748, "kind": "chat", "request_id": "2610ce8c6141", "cache": "bypass", "score": 0.0, "ttft_ms": 873.0, "total_ms": 1090.5, "error": null, "prompt_chars": 30}
+{"ts": 1793343411.774, "kind": "http", "request_id": "0a88e44ac0d7", "method": "POST", "path": "/cache/clear", "status": 200, "ttfb_ms": 4.4}
+{"ts": 1793343411.891, "kind": "http", "request_id": "76df8e95fd26", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 98.1}
+{"ts": 1793343411.891, "kind": "http", "request_id": "3856dcda245a", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 98.3}
+{"ts": 1793343411.899, "kind": "http", "request_id": "f3ee86f0b362", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 107.1}
+{"ts": 1793343411.903, "kind": "http", "request_id": "ddfe43e1f1fe", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 110.3}
+{"ts": 1793343412.928, "kind": "chat", "request_id": "f3ee86f0b362", "cache": "miss", "score": 0.0, "ttft_ms": 1000.5, "total_ms": 1129.3, "error": null, "prompt_chars": 45}
+{"ts": 1793343412.944, "kind": "chat", "request_id": "3856dcda245a", "cache": "miss", "score": 0.0, "ttft_ms": 938.3, "total_ms": 1143.1, "error": null, "prompt_chars": 43}
+{"ts": 1793343412.979, "kind": "http", "request_id": "1c0436448cc0", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 48.0}
+{"ts": 1793343412.986, "kind": "chat", "request_id": "76df8e95fd26", "cache": "miss", "score": 0.0, "ttft_ms": 971.0, "total_ms": 1177.5, "error": null, "prompt_chars": 24}
+{"ts": 1793343413.003, "kind": "http", "request_id": "b827e03be4ee", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 56.0}
+{"ts": 1793343413.01, "kind": "chat", "request_id": "ddfe43e1f1fe", "cache": "miss", "score": 0.0, "ttft_ms": 1052.4, "total_ms": 1207.9, "error": null, "prompt_chars": 32}
+{"ts": 1793343413.05, "kind": "http", "request_id": "dd8fd2a53b67", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 60.5}
+{"ts": 1793343413.056, "kind": "http", "request_id": "0eeb530f4c2c", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 43.2}
+{"ts": 1793343414.001, "kind": "chat", "request_id": "b827e03be4ee", "cache": "miss", "score": 0.175, "ttft_ms": 928.5, "total_ms": 1049.6, "error": null, "prompt_chars": 36}
+{"ts": 1793343414.031, "kind": "http", "request_id": "66593d6933ef", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 24.5}
+{"ts": 1793343414.091, "kind": "chat", "request_id": "0eeb530f4c2c", "cache": "miss", "score": 0.158, "ttft_ms": 934.4, "total_ms": 1076.0, "error": null, "prompt_chars": 27}
+{"ts": 1793343414.116, "kind": "http", "request_id": "de502c1c909b", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 21.7}
+{"ts": 1793343414.188, "kind": "chat", "request_id": "1c0436448cc0", "cache": "miss", "score": -0.035, "ttft_ms": 986.4, "total_ms": 1254.6, "error": null, "prompt_chars": 39}
+{"ts": 1793343414.213, "kind": "http", "request_id": "e54c81f4ac94", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 22.2}
+{"ts": 1793343414.214, "kind": "chat", "request_id": "e54c81f4ac94", "cache": "hit", "score": 0.864, "ttft_ms": 20.2, "total_ms": 21.1, "error": null, "prompt_chars": 34}
+{"ts": 1793343414.228, "kind": "chat", "request_id": "dd8fd2a53b67", "cache": "miss", "score": 0.167, "ttft_ms": 1012.0, "total_ms": 1233.6, "error": null, "prompt_chars": 42}
+{"ts": 1793343414.258, "kind": "http", "request_id": "00a459f13a10", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 41.7}
+{"ts": 1793343414.27, "kind": "http", "request_id": "50fdb7966b96", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 40.2}
+{"ts": 1793343414.272, "kind": "chat", "request_id": "50fdb7966b96", "cache": "hit", "score": 0.956, "ttft_ms": 38.2, "total_ms": 39.4, "error": null, "prompt_chars": 45}
+{"ts": 1793343414.299, "kind": "http", "request_id": "8e1d0438081d", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 24.3}
+{"ts": 1793343415.147, "kind": "chat", "request_id": "66593d6933ef", "cache": "miss", "score": 0.159, "ttft_ms": 940.0, "total_ms": 1135.8, "error": null, "prompt_chars": 34}
+{"ts": 1793343415.175, "kind": "http", "request_id": "f283e9c7975d", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 25.7}
+{"ts": 1793343415.264, "kind": "chat", "request_id": "de502c1c909b", "cache": "miss", "score": 0.842, "ttft_ms": 1005.5, "total_ms": 1166.9, "error": null, "prompt_chars": 23}
+{"ts": 1793343415.287, "kind": "chat", "request_id": "00a459f13a10", "cache": "miss", "score": 0.593, "ttft_ms": 954.1, "total_ms": 1067.3, "error": null, "prompt_chars": 38}
+{"ts": 1793343415.31, "kind": "http", "request_id": "2383df21b436", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 43.1}
+{"ts": 1793343415.312, "kind": "chat", "request_id": "2383df21b436", "cache": "hit", "score": 0.942, "ttft_ms": 41.1, "total_ms": 41.9, "error": null, "prompt_chars": 30}
+{"ts": 1793343415.332, "kind": "http", "request_id": "ea7323bbd143", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 42.4}
+{"ts": 1793343415.347, "kind": "http", "request_id": "b5277c3f840b", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 32.4}
+{"ts": 1793343415.394, "kind": "chat", "request_id": "8e1d0438081d", "cache": "miss", "score": 0.156, "ttft_ms": 940.4, "total_ms": 1117.7, "error": null, "prompt_chars": 43}
+{"ts": 1793343415.428, "kind": "http", "request_id": "1801a0abf595", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 32.1}
+{"ts": 1793343416.13, "kind": "chat", "request_id": "f283e9c7975d", "cache": "miss", "score": 0.144, "ttft_ms": 849.4, "total_ms": 978.4, "error": null, "prompt_chars": 21}
+{"ts": 1793343416.16, "kind": "http", "request_id": "6b53c1de3ec6", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 28.1}
+{"ts": 1793343416.162, "kind": "chat", "request_id": "6b53c1de3ec6", "cache": "hit", "score": 0.941, "ttft_ms": 26.4, "total_ms": 27.3, "error": null, "prompt_chars": 60}
+{"ts": 1793343416.185, "kind": "http", "request_id": "22adda7028cd", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 20.5}
+{"ts": 1793343416.426, "kind": "chat", "request_id": "ea7323bbd143", "cache": "miss", "score": 0.369, "ttft_ms": 910.2, "total_ms": 1132.5, "error": null, "prompt_chars": 28}
+{"ts": 1793343416.455, "kind": "http", "request_id": "93c1803ff128", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 27.0}
+{"ts": 1793343416.462, "kind": "chat", "request_id": "b5277c3f840b", "cache": "miss", "score": 0.183, "ttft_ms": 908.6, "total_ms": 1143.8, "error": null, "prompt_chars": 27}
+{"ts": 1793343416.493, "kind": "http", "request_id": "6198333dcd9c", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 28.2}
+{"ts": 1793343416.497, "kind": "chat", "request_id": "6198333dcd9c", "cache": "hit", "score": 0.916, "ttft_ms": 27.9, "total_ms": 30.9, "error": null, "prompt_chars": 47}
+{"ts": 1793343416.499, "kind": "chat", "request_id": "1801a0abf595", "cache": "miss", "score": 0.781, "ttft_ms": 904.8, "total_ms": 1101.4, "error": null, "prompt_chars": 36}
+{"ts": 1793343416.54, "kind": "http", "request_id": "f2fb9dd62ed6", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 39.8}
+{"ts": 1793343416.541, "kind": "chat", "request_id": "f2fb9dd62ed6", "cache": "hit", "score": 0.861, "ttft_ms": 37.5, "total_ms": 38.5, "error": null, "prompt_chars": 35}
+{"ts": 1793343416.548, "kind": "http", "request_id": "fb7828e28a03", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 46.4}
+{"ts": 1793343416.551, "kind": "chat", "request_id": "fb7828e28a03", "cache": "hit", "score": 0.924, "ttft_ms": 41.2, "total_ms": 42.0, "error": null, "prompt_chars": 25}
+{"ts": 1793343416.586, "kind": "http", "request_id": "3995f5a7d1fc", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 41.4}
+{"ts": 1793343416.592, "kind": "http", "request_id": "1ab325c5442c", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 36.9}
+{"ts": 1793343416.593, "kind": "chat", "request_id": "1ab325c5442c", "cache": "hit", "score": 0.939, "ttft_ms": 35.0, "total_ms": 35.7, "error": null, "prompt_chars": 34}
+{"ts": 1793343416.626, "kind": "http", "request_id": "5e275422c5b9", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 30.1}
+{"ts": 1793343416.629, "kind": "chat", "request_id": "5e275422c5b9", "cache": "hit", "score": 0.926, "ttft_ms": 28.9, "total_ms": 31.1, "error": null, "prompt_chars": 39}
+{"ts": 1793343416.657, "kind": "http", "request_id": "4ac9f61c438f", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 23.9}
+{"ts": 1793343416.658, "kind": "chat", "request_id": "4ac9f61c438f", "cache": "hit", "score": 0.857, "ttft_ms": 21.5, "total_ms": 22.4, "error": null, "prompt_chars": 41}
+{"ts": 1793343416.683, "kind": "http", "request_id": "242c0c0849b7", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 21.9}
+{"ts": 1793343416.684, "kind": "chat", "request_id": "242c0c0849b7", "cache": "hit", "score": 0.879, "ttft_ms": 20.4, "total_ms": 21.3, "error": null, "prompt_chars": 45}
+{"ts": 1793343416.71, "kind": "http", "request_id": "7604bc495dc4", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 22.0}
+{"ts": 1793343416.711, "kind": "chat", "request_id": "7604bc495dc4", "cache": "hit", "score": 0.879, "ttft_ms": 20.4, "total_ms": 21.4, "error": null, "prompt_chars": 47}
+{"ts": 1793343416.734, "kind": "http", "request_id": "4b315a1e7d84", "method": "POST", "path": "/chat/stream", "status": 200, "ttfb_ms": 20.5}
+{"ts": 1793343416.735, "kind": "chat", "request_id": "4b315a1e7d84", "cache": "hit", "score": 0.888, "ttft_ms": 18.9, "total_ms": 19.8, "error": null, "prompt_chars": 30}
+{"ts": 1793343417.115, "kind": "chat", "request_id": "22adda7028cd", "cache": "miss", "score": 0.722, "ttft_ms": 854.3, "total_ms": 949.4, "error": null, "prompt_chars": 27}
+{"ts": 1793343417.527, "kind": "chat", "request_id": "93c1803ff128", "cache": "miss", "score": 0.622, "ttft_ms": 888.5, "total_ms": 1096.0, "error": null, "prompt_chars": 46}
+{"ts": 1793343417.615, "kind": "chat", "request_id": "3995f5a7d1fc", "cache": "miss", "score": 0.744, "ttft_ms": 920.6, "total_ms": 1067.0, "error": null, "prompt_chars": 25}
+{"ts": 1793343417.701, "kind": "http", "request_id": "42aef40e55ed", "method": "GET", "path": "/metrics", "status": 200, "ttfb_ms": 5.3}

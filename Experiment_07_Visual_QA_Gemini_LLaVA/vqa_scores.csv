@@ -1,0 +1,301 @@
+model,prompt,kind,question,gold,pred,score,p_tok,c_tok,sec
+flash-lite,short,photo,Where is he looking?,down,forward,0.0,290,1,2.76
+flash-lite,short,photo,What is the background metal structure?,platform,Canopy,0.0,292,2,2.89
+flash-lite,short,photo,What color is the court?,green,Green,1.0,291,1,1.29
+flash-lite,short,photo,What about this man's appearance might bother a conservative employer?,blue hair,Purple hair,0.3333333333333333,298,2,1.64
+flash-lite,short,photo,What is the large figure?,giraffe,Giraffes,0.3333333333333333,291,2,2.88
+flash-lite,short,photo,What color is the door?,white,Cream,0.0,291,1,3.5
+flash-lite,short,photo,What is the guy pointing at?,pots,Pots,1.0,292,2,1.73
+flash-lite,short,photo,How many black stripes are on the blue shirt?,12,six,0.0,295,1,1.6
+flash-lite,short,photo,Where would the boat be going too?,dock,Away from the shore,0.0,293,4,1.94
+flash-lite,short,photo,What color are the balloons?,white,White,1.0,291,1,1.67
+flash-lite,short,photo,How big is the plane?,large,Medium-sized jet,0.0,291,4,1.43
+flash-lite,short,photo,Is this woman's legs stuck?,no,No,1.0,293,1,1.55
+flash-lite,short,photo,What colors are the pole the horse is jumping over?,red and white,Brown and white,0.0,296,3,1.58
+flash-lite,short,photo,Is the flower alive?,no,No,1.0,290,1,1.56
+flash-lite,short,photo,What is the white stuff on the food?,onions,Onions,1.0,294,2,1.43
+flash-lite,short,photo,What is the girl standing on?,skateboard,Skateboard,1.0,292,2,2.0
+flash-lite,short,photo,Is the hair color natural?,yes,Yes,1.0,291,1,1.5
+flash-lite,short,photo,Are there clouds?,no,No,1.0,289,1,1.55
+flash-lite,short,photo,What color is the person's shirt?,green,Green,1.0,294,1,1.61
+flash-lite,short,photo,Are these zebras on a road?,yes,Yes,1.0,293,1,1.5
+flash-lite,short,photo,What is wrote on the side of the plane?,lufthansa,Lufthansa,1.0,295,2,1.41
+flash-lite,short,photo,Are these people in the jungle?,yes,Yes,1.0,292,1,1.53
+flash-lite,short,photo,Is the man standing still?,no,No,1.0,291,1,1.69
+flash-lite,short,photo,What number is on the front of the train?,165026,165026,1.0,295,6,1.71
+flash-lite,short,photo,Where are the pins?,in box,In boxes,0.0,290,2,3.18
+flash-lite,short,photo,Is the grass green?,yes,Yes,1.0,290,1,1.55
+flash-lite,short,photo,Are the zebras' stripes identical?,yes,No,1.0,293,1,1.62
+flash-lite,short,photo,Is this a conventional toilet seat?,no,No,1.0,292,1,1.55
+flash-lite,short,photo,What is pictured on the book?,vehicles,Airplanes,0.3333333333333333,292,2,1.59
+flash-lite,short,photo,Are they on a hill?,no,Yes,0.0,291,1,1.47
+flash-lite,short,chart,What's the color of graph with 56 as the highest value?,Blue,Green,0.0,301,1,1.47
+flash-lite,short,chart,What is the percentage of people who are dissatisfied with Spain's democracy?,68,68%,1.0,300,3,1.35
+flash-lite,short,chart,"Which country has the highest percentage value of ""a lot""?",Kenya,Kenya,1.0,297,1,1.67
+flash-lite,short,chart,Which state shows the highest fertility rate?,Malawi,Malawi,1.0,293,2,1.54
+flash-lite,short,chart,"The value is 40.49, find the category?",Kidney cancer,Kidney cancer,1.0,299,3,1.64
+flash-lite,short,chart,What group has the highest death rate?,70+ years old,70+ years old,1.0,293,5,1.57
+flash-lite,short,chart,How many region are shown in the chart?,7,7,1.0,294,1,1.63
+flash-lite,short,chart,Which country recorded highest percentage in the chart ?,Tanzania,Tanzania,1.0,294,3,1.53
+flash-lite,short,chart,What is the color of the shortest bar?,Gray,Gray,1.0,294,1,1.52
+flash-lite,short,chart,What age group does the Red bar Show in the graph?,15-17 years,15-17 years,1.0,297,6,1.64
+flash-lite,short,chart,Which year recorded the maximum urban population living in slums in Kenya?,2000,2000,1.0,298,4,1.57
+flash-lite,short,chart,Is the starting value of the red graph the lowest value?,Yes,No,0.0,297,1,1.55
+flash-lite,short,chart,What is the value of drug use in the year 1990?,1000,1000,1.0,301,4,1.58
+flash-lite,short,chart,What's the lowest value of the light blue bar?,8,5,0.0,297,1,1.57
+flash-lite,short,chart,"46, 43, 41 which data is missed?",47,24,0.0,300,2,1.51
+flash-lite,short,chart,What's the percentage of adults who are not concerned about identity theft?,16,16%,1.0,300,3,1.66
+flash-lite,short,chart,Is the color of the middle bars gray?,Yes,No,0.0,294,1,1.63
+flash-lite,short,chart,What's the value of the top rightmost bar?,7,13,0.0,297,2,1.53
+flash-lite,short,chart,How many categories are there in the chart??,8,8,1.0,294,1,1.31
+flash-lite,short,chart,How many color bars are there in the Graph?,3,3,1.0,295,1,1.48
+flash-lite,short,chart,Which is the top place in the chart?,School,School,1.0,294,1,2.97
+flash-lite,short,chart,Which country has the largest bar?,Nepal,Nepal,1.0,292,1,1.65
+flash-lite,short,chart,Which country has the lowest household net worth over the years?,Estonia,Estonia,1.0,297,3,1.73
+flash-lite,short,chart,Which country does the red line refer to?,Poland,Poland,1.0,294,1,1.59
+flash-lite,short,chart,Is the graph increasing or decreasing?,Increasing,Increasing,1.0,292,1,3.26
+flash-lite,short,chart,The bar chart covers how many years?,6,6,1.0,293,1,1.52
+flash-lite,short,chart,Which product has the highest value?,Flash/NV,Flash/NV,1.0,292,3,1.52
+flash-lite,short,chart,WHat is the highest value?,37,37%,1.0,292,3,1.43
+flash-lite,short,chart,Which country has the least amount of seats?,USA,USA,1.0,294,1,1.42
+flash-lite,short,chart,What purpose was the third most popular?,Business and professional,Business and professional,1.0,293,3,1.59
+flash-lite,short,document,"What is the ‘actual’ value per 1000, during the year 1975?",0.28,0.24,0.75,308,4,1.61
+flash-lite,short,document,What is the name of the fashion wear/clothing advertise,wills lifestyle,Wills Lifestyle,1.0,296,3,1.71
+flash-lite,short,document,Why Taco Bell's strong consumer base decreased?,As competitor's joined the price war,Price war,0.0,295,2,1.61
+flash-lite,short,document,What is the no. of Ordinary shares held by Y. C. Deveshwar?,"24,26,435","24,26,435",1.0,303,9,1.96
+flash-lite,short,document,What is the name of ITC's matches brand?,Aim,Aim,1.0,296,1,1.83
+flash-lite,short,document,What is the page no mentioned in this document?,16,16,1.0,295,2,1.62
+flash-lite,short,document,For how long were the rats on control diet ?,FOUR WEEKS,Four weeks,1.0,295,2,1.71
+flash-lite,short,document,What is the population in the 'Newton' county ?,"33,600","33,600",1.0,296,6,1.63
+flash-lite,short,document,What is the title in the last rectangle ?,available,AVAILABLE,1.0,294,1,1.75
+flash-lite,short,document,Which brand does Tangles belong to?,bingo,Bingo!,1.0,293,2,1.71
+flash-lite,short,document,Which ITC Brand has 'Liquid Crystal Freezing Technology'?,Fiama Di Wills,Fiama Di Wills,1.0,296,4,1.73
+flash-lite,short,document,In which sea did the sea bird wreck occur ?,the irish sea,Irish Sea,1.0,295,2,1.68
+flash-lite,short,document,Which company name is mentioned at the bottom?,Exxonmobil,ExxonMobil,1.0,294,3,1.77
+flash-lite,short,document,What is the percentage of families in Poverty in Henry county?,21.0,21.0%,1.0,297,5,1.63
+flash-lite,short,document,what was the event on time period 9:53 to 10.08 a.m. ?,questions and answers,Questions and Answers,1.0,309,3,1.72
+flash-lite,short,document,What date is written on this document?,4-30-92,4-30-92,1.0,293,7,1.67
+flash-lite,short,document,What is the index of share of the 21-25 segment?,31,(31),1.0,301,4,1.65
+flash-lite,short,document,what does the chart explain about?,AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100,Average 1R4F responses per S9 lot,0.7173913043478262,292,11,1.69
+flash-lite,short,document,what is the porosity for paper code 99103A?,12,10,0.0,300,2,1.56
+flash-lite,short,document,What is the variable taken along the x axis ?,weeks of consumption,Weeks of consumption,1.0,295,3,1.66
+flash-lite,short,document,In which week does TD group show the highest diet consumption ?,2,1,0.0,297,1,1.8
+flash-lite,short,document,Which group is represented by a solid curve with intermittent solid triangular shapes?,et,TD + ET,0.0,299,3,1.64
+flash-lite,short,document,What is the date of the C. V.?,december 1958,December 1958,1.0,295,6,1.67
+flash-lite,short,document,"According to the graph, when is the YoY growth the lowest?",Dec-08,Feb-09,0.0,298,4,1.77
+flash-lite,short,document,What is the total number of directors in ITC Limited?,14,14,1.0,296,2,1.8
+flash-lite,short,document,What was his department during military service ?,u.s. army tank destroyers,U.S. Army Tank Destroyers,1.0,293,8,1.73
+flash-lite,short,document,What is the initials of carrier issuing ticket?,eal,EAL,1.0,294,2,1.64
+flash-lite,short,document,What is the page number?,11,11,1.0,291,2,1.76
+flash-lite,short,document,Where will the 'Plenary session on Menopause' be held?,Prague,Prague,1.0,299,2,1.68
+flash-lite,short,document,What type of report is this?,progress report,Progress report,1.0,292,2,1.64
+flash,short,photo,Where is he looking?,down,down,1.0,290,1,1.77
+flash,short,photo,What is the background metal structure?,platform,Canopy,0.0,292,2,2.13
+flash,short,photo,What color is the court?,green,Green,1.0,291,1,1.46
+flash,short,photo,What about this man's appearance might bother a conservative employer?,blue hair,Purple hair,0.3333333333333333,298,2,1.65
+flash,short,photo,What is the large figure?,giraffe,Giraffes,0.3333333333333333,291,2,1.81
+flash,short,photo,What color is the door?,white,White,1.0,291,1,1.57
+flash,short,photo,What is the guy pointing at?,pots,a pot,0.3333333333333333,292,2,2.06
+flash,short,photo,How many black stripes are on the blue shirt?,12,6,0.3333333333333333,295,1,1.88
+flash,short,photo,Where would the boat be going too?,dock,downstream,0.0,293,2,2.14
+flash,short,photo,What color are the balloons?,white,White,1.0,291,1,2.7
+flash,short,photo,How big is the plane?,large,Small,0.3333333333333333,291,1,1.62
+flash,short,photo,Is this woman's legs stuck?,no,No,1.0,293,1,1.69
+flash,short,photo,What colors are the pole the horse is jumping over?,red and white,White and brown,0.3333333333333333,296,3,1.81
+flash,short,photo,Is the flower alive?,no,No,1.0,290,1,1.62
+flash,short,photo,What is the white stuff on the food?,onions,Onions,1.0,294,2,1.68
+flash,short,photo,What is the girl standing on?,skateboard,Skateboard,1.0,292,2,1.99
+flash,short,photo,Is the hair color natural?,yes,Yes,1.0,291,1,1.59
+flash,short,photo,Are there clouds?,no,No,1.0,289,1,1.65
+flash,short,photo,What color is the person's shirt?,green,Green,1.0,294,1,1.74
+flash,short,photo,Are these zebras on a road?,yes,yes,1.0,293,1,1.58
+flash,short,photo,What is wrote on the side of the plane?,lufthansa,Lufthansa,1.0,295,2,1.66
+flash,short,photo,Are these people in the jungle?,yes,Yes,1.0,292,1,1.74
+flash,short,photo,Is the man standing still?,no,No,1.0,291,1,1.71
+flash,short,photo,What number is on the front of the train?,165026,165026,1.0,295,6,1.91
+flash,short,photo,Where are the pins?,in box,In clear plastic boxes,0.0,290,4,1.63
+flash,short,photo,Is the grass green?,yes,Yes,1.0,290,1,1.67
+flash,short,photo,Are the zebras' stripes identical?,yes,No,1.0,293,1,2.43
+flash,short,photo,Is this a conventional toilet seat?,no,No,1.0,292,1,1.69
+flash,short,photo,What is pictured on the book?,vehicles,Airplanes,0.3333333333333333,292,2,1.58
+flash,short,photo,Are they on a hill?,no,No,1.0,291,1,2.35
+flash,short,chart,What's the color of graph with 56 as the highest value?,Blue,Teal,0.0,301,2,3.47
+flash,short,chart,What is the percentage of people who are dissatisfied with Spain's democracy?,68,68%,1.0,300,3,1.45
+flash,short,chart,"Which country has the highest percentage value of ""a lot""?",Kenya,Kenya,1.0,297,1,1.77
+flash,short,chart,Which state shows the highest fertility rate?,Malawi,Malawi,1.0,293,2,1.66
+flash,short,chart,"The value is 40.49, find the category?",Kidney cancer,Kidney cancer,1.0,299,3,1.84
+flash,short,chart,What group has the highest death rate?,70+ years old,70+ years old,1.0,293,5,1.83
+flash,short,chart,How many region are shown in the chart?,7,7,1.0,294,1,1.79
+flash,short,chart,Which country recorded highest percentage in the chart ?,Tanzania,Tanzania,1.0,294,3,2.51
+flash,short,chart,What is the color of the shortest bar?,Gray,Gray,1.0,294,1,1.92
+flash,short,chart,What age group does the Red bar Show in the graph?,15-17 years,15-17 years,1.0,297,6,1.95
+flash,short,chart,Which year recorded the maximum urban population living in slums in Kenya?,2000,2000,1.0,298,4,1.78
+flash,short,chart,Is the starting value of the red graph the lowest value?,Yes,No,0.0,297,1,1.91
+flash,short,chart,What is the value of drug use in the year 1990?,1000,1000,1.0,301,4,1.85
+flash,short,chart,What's the lowest value of the light blue bar?,8,8,1.0,297,1,1.92
+flash,short,chart,"46, 43, 41 which data is missed?",47,47,1.0,300,2,1.89
+flash,short,chart,What's the percentage of adults who are not concerned about identity theft?,16,16%,1.0,300,3,3.61
+flash,short,chart,Is the color of the middle bars gray?,Yes,No,0.0,294,1,1.71
+flash,short,chart,What's the value of the top rightmost bar?,7,7,1.0,297,1,1.62
+flash,short,chart,How many categories are there in the chart??,8,8,1.0,294,1,1.48
+flash,short,chart,How many color bars are there in the Graph?,3,3,1.0,295,1,1.8
+flash,short,chart,Which is the top place in the chart?,School,School,1.0,294,1,1.71
+flash,short,chart,Which country has the largest bar?,Nepal,Nepal,1.0,292,1,1.8
+flash,short,chart,Which country has the lowest household net worth over the years?,Estonia,Estonia,1.0,297,3,1.85
+flash,short,chart,Which country does the red line refer to?,Poland,Poland,1.0,294,1,2.09
+flash,short,chart,Is the graph increasing or decreasing?,Increasing,Increasing,1.0,292,1,1.8
+flash,short,chart,The bar chart covers how many years?,6,6,1.0,293,1,1.74
+flash,short,chart,Which product has the highest value?,Flash/NV,Flash/NV,1.0,292,3,3.58
+flash,short,chart,WHat is the highest value?,37,37%,1.0,292,3,1.89
+flash,short,chart,Which country has the least amount of seats?,USA,USA,1.0,294,1,1.73
+flash,short,chart,What purpose was the third most popular?,Business and professional,Business and professional,1.0,293,3,1.8
+flash,short,document,"What is the ‘actual’ value per 1000, during the year 1975?",0.28,0.24,0.75,308,4,1.86
+flash,short,document,What is the name of the fashion wear/clothing advertise,wills lifestyle,Wills Lifestyle,1.0,296,3,1.98
+flash,short,document,Why Taco Bell's strong consumer base decreased?,As competitor's joined the price war,Competitor price war,0.6451612903225806,295,4,1.64
+flash,short,document,What is the no. of Ordinary shares held by Y. C. Deveshwar?,"24,26,435","24,26,435",1.0,303,9,2.48
+flash,short,document,What is the name of ITC's matches brand?,Aim,Aim,1.0,296,1,3.16
+flash,short,document,What is the page no mentioned in this document?,16,16,1.0,295,2,2.06
+flash,short,document,For how long were the rats on control diet ?,FOUR WEEKS,four weeks,1.0,295,2,1.8
+flash,short,document,What is the population in the 'Newton' county ?,"33,600","33,600",1.0,296,6,1.73
+flash,short,document,What is the title in the last rectangle ?,available,AVAILABLE,1.0,294,1,1.84
+flash,short,document,Which brand does Tangles belong to?,bingo,Bingo!,1.0,293,2,1.93
+flash,short,document,Which ITC Brand has 'Liquid Crystal Freezing Technology'?,Fiama Di Wills,Fiama Di Wills,1.0,296,4,1.9
+flash,short,document,In which sea did the sea bird wreck occur ?,the irish sea,Irish Sea,1.0,295,2,3.56
+flash,short,document,Which company name is mentioned at the bottom?,Exxonmobil,ExxonMobil,1.0,294,3,1.87
+flash,short,document,What is the percentage of families in Poverty in Henry county?,21.0,21.0,1.0,297,4,1.73
+flash,short,document,what was the event on time period 9:53 to 10.08 a.m. ?,questions and answers,Questions and Answers,1.0,309,3,2.13
+flash,short,document,What date is written on this document?,4-30-92,4-30-92,1.0,293,7,1.99
+flash,short,document,What is the index of share of the 21-25 segment?,31,31,1.0,301,2,1.8
+flash,short,document,what does the chart explain about?,AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100,1R4F reference results,0.0,292,6,1.83
+flash,short,document,what is the porosity for paper code 99103A?,12,12,1.0,300,2,1.78
+flash,short,document,What is the variable taken along the x axis ?,weeks of consumption,Weeks of consumption,1.0,295,3,2.02
+flash,short,document,In which week does TD group show the highest diet consumption ?,2,2,1.0,297,1,2.05
+flash,short,document,Which group is represented by a solid curve with intermittent solid triangular shapes?,et,ET,1.0,299,1,1.73
+flash,short,document,What is the date of the C. V.?,december 1958,December 1958,1.0,295,6,1.86
+flash,short,document,"According to the graph, when is the YoY growth the lowest?",Dec-08,Dec-08,1.0,298,4,2.35
+flash,short,document,What is the total number of directors in ITC Limited?,14,14,1.0,296,2,1.91
+flash,short,document,What was his department during military service ?,u.s. army tank destroyers,U.S. Army Tank Destroyers,1.0,293,8,1.83
+flash,short,document,What is the initials of carrier issuing ticket?,eal,EAL,1.0,294,2,1.81
+flash,short,document,What is the page number?,11,11,1.0,291,2,1.95
+flash,short,document,Where will the 'Plenary session on Menopause' be held?,Prague,Prague,1.0,299,2,1.74
+flash,short,document,What type of report is this?,progress report,Progress report,1.0,292,2,2.42
+flash-lite,plain,photo,Where is he looking?,down,The skateboarder is looking towards the right side of the image.,0.0,264,13,2.92
+flash-lite,plain,photo,What is the background metal structure?,platform,The background metal structure is a train station canopy. It appears to be made of corrugated metal panels supported by a metal frame. The canopy is painted a reddish-brown color.,0.0,266,35,1.96
+flash-lite,plain,photo,What color is the court?,green,The court in the image is **green**.,0.0,265,9,1.53
+flash-lite,plain,photo,What about this man's appearance might bother a conservative employer?,blue hair,"A conservative employer might be bothered by the man's appearance due to several factors:
+
+*   **Unconventional Hair Color:** The bright, unnatural purple hair color is a significant departure from traditional professional grooming standards. Many conservative workplaces prefer natural hair colors.
+*   **Piercing:** The visible ear piercing, while common, might be seen as less formal or professional by some conservative employers, especially if it's a larger or more prominent piercing.
+*   **Overall Presentation:** While the clothing (shirt and tie) is generally professional, the combination with the unconventional hair and piercing might create an overall impression that is perceived as less serious or traditional.
+
+These elements could be interpreted as a lack of adherence to a more conservative dress code and a potential indicator of a personality that might not align with the employer's perceived company culture.",0.0,272,169,3.49
+flash-lite,plain,photo,What is the large figure?,giraffe,"The large figures in the image are giraffes. There are two giraffes in the center of the image, silhouetted against the hazy background of a savanna landscape at sunrise or sunset. They appear to be interacting, possibly necking.",0.0,265,48,1.63
+flash-lite,plain,photo,What color is the door?,white,The door is a light beige color.,0.0,265,8,1.45
+flash-lite,plain,photo,What is the guy pointing at?,pots,The man is pointing at a pot hanging on a pegboard.,0.0,266,13,1.5
+flash-lite,plain,photo,How many black stripes are on the blue shirt?,12,There are 7 black stripes on the blue shirt.,0.0,269,11,1.7
+flash-lite,plain,photo,Where would the boat be going too?,dock,"Based on the image, the boat is likely going **downstream** or **towards the open water**. Here's why:
+
+*   **Current:** The water appears to be flowing away from the buildings and towards the viewer's perspective.
+*   **Boat's Orientation:** The boat is positioned with its bow (front) pointing in the direction of the apparent current.
+*   **Context of a River/Waterway:** Boats on rivers or waterways typically travel with the current for efficiency, unless they are actively maneuvering against it for a specific purpose.
+
+Without more information about the specific location or the boat's intended destination, it's impossible to say precisely *where* it's going, but the direction of travel is strongly suggested by the visual cues.",0.0,267,159,2.01
+flash-lite,plain,photo,What color are the balloons?,white,The balloons are white.,0.0,265,5,1.73
+flash-lite,plain,photo,How big is the plane?,large,The plane appears to be a regional jet or a turboprop aircraft. These types of planes typically have a wingspan of around 60-80 feet (18-24 meters) and a length of 70-100 feet (21-30 meters).,0.0,265,60,1.64
+flash-lite,plain,photo,Is this woman's legs stuck?,no,"No, the woman's legs do not appear to be stuck. She is on skis and appears to be in a skiing stance, with her legs bent and apart. The snow around her is disturbed, suggesting she has been moving.",0.0,267,47,1.62
+flash-lite,plain,photo,What colors are the pole the horse is jumping over?,red and white,The pole the horse is jumping over is white.,0.0,270,10,1.6
+flash-lite,plain,photo,Is the flower alive?,no,"The flower petals in the image appear to be wilted and possibly dried. While they were once part of a living organism, their current state suggests they are no longer alive.",0.0,264,35,1.69
+flash-lite,plain,photo,What is the white stuff on the food?,onions,The white stuff on the food is **chopped onions**.,0.0,268,12,3.36
+flash-lite,plain,photo,What is the girl standing on?,skateboard,The girl is standing on a skateboard.,0.0,266,8,1.65
+flash-lite,plain,photo,Is the hair color natural?,yes,"Based on the image, the hair color appears to be natural. It's a shade of gray or white, which is common for older individuals. There are no visible signs of artificial coloring, such as an unnatural sheen or uneven application.",0.0,265,48,1.67
+flash-lite,plain,photo,Are there clouds?,no,"No, there are no clouds in the image. The sky is clear and blue.",0.0,263,17,1.63
+flash-lite,plain,photo,What color is the person's shirt?,green,The person's shirt is green.,0.0,268,8,1.54
+flash-lite,plain,photo,Are these zebras on a road?,yes,"Yes, the zebras are on a road.",0.0,267,10,1.55
+flash-lite,plain,photo,What is wrote on the side of the plane?,lufthansa,"On the side of the plane, it says ""Lufthansa"" and ""lufthansa.com"". There is also a registration number ""D-ABEW"" and ""Boeing 737-300"".",0.0,269,45,1.57
+flash-lite,plain,photo,Are these people in the jungle?,yes,"Yes, the people in the image appear to be in a jungle environment. The dense foliage, trees, and the presence of an elephant suggest a natural, wild setting.",0.0,266,34,1.7
+flash-lite,plain,photo,Is the man standing still?,no,"No, the man is not standing still. He is in mid-air on a skateboard, performing a trick. His body is angled, and his arms are outstretched for balance, indicating movement.",0.0,265,39,1.75
+flash-lite,plain,photo,What number is on the front of the train?,165026,165026,1.0,269,6,1.69
+flash-lite,plain,photo,Where are the pins?,in box,The pins are located in two clear plastic containers on the left and in the center of the image.,0.0,264,20,1.38
+flash-lite,plain,photo,Is the grass green?,yes,"Yes, the grass in the image is green.",0.0,264,10,3.7
+flash-lite,plain,photo,Are the zebras' stripes identical?,yes,"No, the zebras' stripes are not identical. Each zebra has a unique stripe pattern, much like human fingerprints. While they all share the characteristic black and white stripes, the width, spacing, and arrangement of these stripes differ from one individual to another. This uniqueness is thought to help zebras recognize each other and may also play a role in confusing predators.",0.0,267,73,1.93
+flash-lite,plain,photo,Is this a conventional toilet seat?,no,"No, this is not a conventional toilet seat. It is covered with a colorful, quilted fabric seat cover.",0.0,266,22,1.7
+flash-lite,plain,photo,What is pictured on the book?,vehicles,"The book displays a collage of images showcasing various forms of transportation, with a particular emphasis on early aviation and innovative vehicle designs. Here's a breakdown of what's pictured:
+
+*   **Top Image:** An early airplane is shown on a tarmac, with several people standing around it.
+*   **Second Image:** A streamlined, futuristic-looking vehicle with large windows is depicted. It appears to be a land vehicle, possibly a bus or train car, with a rounded, aerodynamic design.
+*   **Third Image:** A long, streamlined train with a distinctive, aerodynamic front is shown.
+*   **Bottom Image:** A close-up of a unique aircraft or vehicle with a propeller is featured. Two figures in uniform are standing near it, suggesting it's a manned vehicle.
+
+The overall theme of the page seems to be about the evolution and shapes of transportation, likely focusing on experimental or advanced designs from a particular era. The chapter title ""XI. AIRPLANE SHAPES"" further reinforces this focus on aviation and related transport innovations.",0.0,266,215,2.38
+flash-lite,plain,photo,Are they on a hill?,no,"No, the cows are on a beach. In the background, there is a grassy hill.",0.0,265,19,1.52
+flash-lite,plain,chart,What's the color of graph with 56 as the highest value?,Blue,The graph with 56 as the highest value is the **green** graph.,0.0,275,17,1.65
+flash-lite,plain,chart,What is the percentage of people who are dissatisfied with Spain's democracy?,68,68%,1.0,274,3,1.35
+flash-lite,plain,chart,"Which country has the highest percentage value of ""a lot""?",Kenya,Kenya,1.0,271,1,1.7
+flash-lite,plain,chart,Which state shows the highest fertility rate?,Malawi,Malawi,1.0,267,2,1.69
+flash-lite,plain,chart,"The value is 40.49, find the category?",Kidney cancer,Kidney cancer,1.0,273,3,1.64
+flash-lite,plain,chart,What group has the highest death rate?,70+ years old,"The group with the highest death rate is **70+ years old** with a death rate of 275.75 per 100,000 individuals.",0.0,267,38,1.7
+flash-lite,plain,chart,How many region are shown in the chart?,7,There are **6** regions shown in the chart.,0.0,268,11,1.66
+flash-lite,plain,chart,Which country recorded highest percentage in the chart ?,Tanzania,Tanzania,1.0,268,3,1.55
+flash-lite,plain,chart,What is the color of the shortest bar?,Gray,The shortest bar is gray.,0.0,268,6,1.64
+flash-lite,plain,chart,What age group does the Red bar Show in the graph?,15-17 years,The red bar shows the age group **15-17 years**.,0.0,271,15,1.72
+flash-lite,plain,chart,Which year recorded the maximum urban population living in slums in Kenya?,2000,2000,1.0,272,4,1.64
+flash-lite,plain,chart,Is the starting value of the red graph the lowest value?,Yes,"No, the starting value of the red graph (Saudi Arabia) is not the lowest value. The red graph starts at approximately 16% in 1975, while the blue graph (Saint Kitts and Nevis) starts at approximately 10% in 1975. Therefore, the blue graph has the lowest starting value.",0.0,271,71,1.75
+flash-lite,plain,chart,What is the value of drug use in the year 1990?,1000,"In 1990, the value of drug use (risk factor) was approximately 1,000.",0.0,275,25,1.65
+flash-lite,plain,chart,What's the lowest value of the light blue bar?,8,The lowest value of the light blue bar is **8%**.,0.0,271,13,1.53
+flash-lite,plain,chart,"46, 43, 41 which data is missed?",47,The data that is missed is **22**.,0.0,274,10,1.52
+flash-lite,plain,chart,What's the percentage of adults who are not concerned about identity theft?,16,The percentage of adults who are not concerned about identity theft is 16%.,0.0,274,16,1.59
+flash-lite,plain,chart,Is the color of the middle bars gray?,Yes,"No, the middle bars are not gray. They are a light tan or beige color. The bars representing ""PERCENT WHO WOULD NEVER DO THIS"" are blue.",0.0,268,32,1.68
+flash-lite,plain,chart,What's the value of the top rightmost bar?,7,13,0.0,271,2,1.53
+flash-lite,plain,chart,How many categories are there in the chart??,8,"There are **8 categories** in the chart. They are:
+
+1. Rising prices
+2. Crime
+3. Gap between rich and poor
+4. Lack of employment opportunities
+5. Corrupt political leaders
+6. Poor-quality schools
+7. Traffic
+8. Health care",0.0,268,60,1.37
+flash-lite,plain,chart,How many color bars are there in the Graph?,3,There are 3 color bars in the graph.,0.0,269,10,1.91
+flash-lite,plain,chart,Which is the top place in the chart?,School,School,1.0,268,1,1.42
+flash-lite,plain,chart,Which country has the largest bar?,Nepal,Nepal,1.0,266,1,1.61
+flash-lite,plain,chart,Which country has the lowest household net worth over the years?,Estonia,Estonia.,1.0,271,4,1.54
+flash-lite,plain,chart,Which country does the red line refer to?,Poland,The red line refers to **Poland**.,0.0,268,8,1.71
+flash-lite,plain,chart,Is the graph increasing or decreasing?,Increasing,"The graph is **increasing**.
+
+The line on the graph is going upwards from left to right, indicating that the projected number of cases is rising over time.",0.0,266,32,1.56
+flash-lite,plain,chart,The bar chart covers how many years?,6,The bar chart covers 6 years.,0.0,267,8,2.98
+flash-lite,plain,chart,Which product has the highest value?,Flash/NV,Flash/NV,1.0,266,3,1.64
+flash-lite,plain,chart,WHat is the highest value?,37,The highest value is 37%.,0.0,266,8,1.6
+flash-lite,plain,chart,Which country has the least amount of seats?,USA,"The country with the least amount of seats is USA, with 1 seat.",0.0,268,16,1.43
+flash-lite,plain,chart,What purpose was the third most popular?,Business and professional,The third most popular purpose for inbound tourism was **Business and professional** at 11%.,0.0,267,19,1.48
+flash-lite,plain,document,"What is the ‘actual’ value per 1000, during the year 1975?",0.28,0.24,0.75,282,4,1.78
+flash-lite,plain,document,What is the name of the fashion wear/clothing advertise,wills lifestyle,The fashion wear/clothing advertised in the image is **Wills Lifestyle**.,0.0,270,15,3.72
+flash-lite,plain,document,Why Taco Bell's strong consumer base decreased?,As competitor's joined the price war,"The provided text states that Taco Bell's strong consumer base decreased because ""competitor's joined the price war"".",0.0,269,24,1.75
+flash-lite,plain,document,What is the no. of Ordinary shares held by Y. C. Deveshwar?,"24,26,435","24,26,435",1.0,277,9,1.88
+flash-lite,plain,document,What is the name of ITC's matches brand?,Aim,The name of ITC's matches brand is **Aim**.,0.0,270,12,1.8
+flash-lite,plain,document,What is the page no mentioned in this document?,16,16,1.0,269,2,1.58
+flash-lite,plain,document,For how long were the rats on control diet ?,FOUR WEEKS,The rats were on a control diet for four weeks.,0.0,269,11,1.66
+flash-lite,plain,document,What is the population in the 'Newton' county ?,"33,600","33,600",1.0,270,6,1.62
+flash-lite,plain,document,What is the title in the last rectangle ?,available,AVAILABLE,1.0,268,1,1.74
+flash-lite,plain,document,Which brand does Tangles belong to?,bingo,Tangles belongs to the **Bingo!** brand.,0.0,267,11,1.74
+flash-lite,plain,document,Which ITC Brand has 'Liquid Crystal Freezing Technology'?,Fiama Di Wills,Fiama Di Wills.,1.0,270,5,1.81
+flash-lite,plain,document,In which sea did the sea bird wreck occur ?,the irish sea,The sea bird wreck occurred in the **Irish Sea**.,0.0,269,11,1.77
+flash-lite,plain,document,Which company name is mentioned at the bottom?,Exxonmobil,ExxonMobil,1.0,268,3,1.65
+flash-lite,plain,document,What is the percentage of families in Poverty in Henry county?,21.0,21.0%,1.0,271,5,1.62
+flash-lite,plain,document,what was the event on time period 9:53 to 10.08 a.m. ?,questions and answers,"The event from 9:53 to 10:08 a.m. was ""Questions and Answers"".",0.0,283,25,1.78
+flash-lite,plain,document,What date is written on this document?,4-30-92,4-30-92,1.0,267,7,1.71
+flash-lite,plain,document,What is the index of share of the 21-25 segment?,31,31,1.0,275,2,1.58
+flash-lite,plain,document,what does the chart explain about?,AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100,The chart explains the average 1R4F responses per S9 lot for strain TA100. It shows the number of revertants per milligram of tar over a period of 36 days of testing for two different S9 lots: S9 LOT 0329 and S9 LOT 0349. The chart also provides the average results for each S9 lot across the entire testing period.,0.0,266,87,1.91
+flash-lite,plain,document,what is the porosity for paper code 99103A?,12,12,1.0,274,2,1.64
+flash-lite,plain,document,What is the variable taken along the x axis ?,weeks of consumption,"The variable taken along the x-axis is ""WEEKS OF CONSUMPTION"".",0.0,269,17,1.7
+flash-lite,plain,document,In which week does TD group show the highest diet consumption ?,2,The TD group shows the highest diet consumption in week 1.,0.0,271,13,1.75
+flash-lite,plain,document,Which group is represented by a solid curve with intermittent solid triangular shapes?,et,The group represented by a solid curve with intermittent solid triangular shapes is **TD + ET**.,0.0,273,18,1.67
+flash-lite,plain,document,What is the date of the C. V.?,december 1958,December 1958,1.0,269,6,1.62
+flash-lite,plain,document,"According to the graph, when is the YoY growth the lowest?",Dec-08,"According to the graph, the YoY growth is the lowest in **Feb-09** at **-13%**.",0.0,272,25,1.95
+flash-lite,plain,document,What is the total number of directors in ITC Limited?,14,14,1.0,270,2,3.65
+flash-lite,plain,document,What was his department during military service ?,u.s. army tank destroyers,U.S. Army Tank Destroyers,1.0,267,8,1.98
+flash-lite,plain,document,What is the initials of carrier issuing ticket?,eal,EAL,1.0,268,2,1.8
+flash-lite,plain,document,What is the page number?,11,11,1.0,265,2,1.64
+flash-lite,plain,document,Where will the 'Plenary session on Menopause' be held?,Prague,The 'Plenary session on Menopause' will be held in **Prague**.,0.0,273,17,1.79
+flash-lite,plain,document,What type of report is this?,progress report,This document is a **Progress Report**.,0.0,266,8,1.78

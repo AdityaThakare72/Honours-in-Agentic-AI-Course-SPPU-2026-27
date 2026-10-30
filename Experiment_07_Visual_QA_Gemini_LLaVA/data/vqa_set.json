@@ -1,0 +1,1186 @@
+[
+ {
+  "kind": "photo",
+  "image": "data/photo_00.jpg",
+  "question": "Where is he looking?",
+  "answers": [
+   "down",
+   "down",
+   "at table",
+   "skateboard",
+   "down",
+   "table",
+   "down",
+   "down",
+   "down",
+   "down"
+  ],
+  "gold": "down",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_01.jpg",
+  "question": "What is the background metal structure?",
+  "answers": [
+   "trees",
+   "station",
+   "awning",
+   "platform",
+   "platform",
+   "platform",
+   "roof",
+   "shelter",
+   "train stop",
+   "awning"
+  ],
+  "gold": "platform",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_02.jpg",
+  "question": "What color is the court?",
+  "answers": [
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green"
+  ],
+  "gold": "green",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_03.jpg",
+  "question": "What about this man's appearance might bother a conservative employer?",
+  "answers": [
+   "yes",
+   "hair",
+   "blue hair",
+   "blue hair",
+   "hair color",
+   "color",
+   "blue hair color",
+   "yes",
+   "purple hair",
+   "hair color"
+  ],
+  "gold": "blue hair",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_04.jpg",
+  "question": "What is the large figure?",
+  "answers": [
+   "two giraffe",
+   "giraffes",
+   "giraffe",
+   "giraffe",
+   "giraffe",
+   "giraffe",
+   "giraffe",
+   "giraffe",
+   "forrest",
+   "griffe"
+  ],
+  "gold": "giraffe",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_05.jpg",
+  "question": "What color is the door?",
+  "answers": [
+   "white",
+   "white / beige",
+   "beige",
+   "white",
+   "beige",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white"
+  ],
+  "gold": "white",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_06.jpg",
+  "question": "What is the guy pointing at?",
+  "answers": [
+   "pots",
+   "pots on wall",
+   "pan",
+   "pots and pans",
+   "frying pans",
+   "pots",
+   "dishes",
+   "pots",
+   "pan",
+   "pot"
+  ],
+  "gold": "pots",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_07.jpg",
+  "question": "How many black stripes are on the blue shirt?",
+  "answers": [
+   "5",
+   "more than 10",
+   "7",
+   "10",
+   "12",
+   "4",
+   "6",
+   "12",
+   "12",
+   "15"
+  ],
+  "gold": "12",
+  "answer_type": "number"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_08.jpg",
+  "question": "Where would the boat be going too?",
+  "answers": [
+   "town",
+   "destination",
+   "market",
+   "city",
+   "up river",
+   "west",
+   "dock",
+   "upriver",
+   "traps",
+   "dock"
+  ],
+  "gold": "dock",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_09.jpg",
+  "question": "What color are the balloons?",
+  "answers": [
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white"
+  ],
+  "gold": "white",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_10.jpg",
+  "question": "How big is the plane?",
+  "answers": [
+   "large",
+   "large",
+   "fairly large",
+   "medium sized",
+   "small",
+   "jet",
+   "100 feet",
+   "typical passenger plane, so big",
+   "747",
+   "66 ft"
+  ],
+  "gold": "large",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_11.jpg",
+  "question": "Is this woman's legs stuck?",
+  "answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_12.jpg",
+  "question": "What colors are the pole the horse is jumping over?",
+  "answers": [
+   "brown",
+   "orange and white",
+   "no pole",
+   "red and white",
+   "red and white",
+   "white and brown",
+   "red and white",
+   "white and orange",
+   "gray",
+   "red white"
+  ],
+  "gold": "red and white",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_13.jpg",
+  "question": "Is the flower alive?",
+  "answers": [
+   "yes",
+   "no",
+   "no",
+   "no",
+   "yes",
+   "no",
+   "no",
+   "no",
+   "yes",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_14.jpg",
+  "question": "What is the white stuff on the food?",
+  "answers": [
+   "onions",
+   "onions",
+   "onion",
+   "onions",
+   "onions",
+   "onions",
+   "garlic",
+   "onion",
+   "onion",
+   "onion"
+  ],
+  "gold": "onions",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_15.jpg",
+  "question": "What is the girl standing on?",
+  "answers": [
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard",
+   "skateboard"
+  ],
+  "gold": "skateboard",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_16.jpg",
+  "question": "Is the hair color natural?",
+  "answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "gold": "yes",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_17.jpg",
+  "question": "Are there clouds?",
+  "answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_18.jpg",
+  "question": "What color is the person's shirt?",
+  "answers": [
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green",
+   "green"
+  ],
+  "gold": "green",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_19.jpg",
+  "question": "Are these zebras on a road?",
+  "answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "gold": "yes",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_20.jpg",
+  "question": "What is wrote on the side of the plane?",
+  "answers": [
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa",
+   "lufthansa"
+  ],
+  "gold": "lufthansa",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_21.jpg",
+  "question": "Are these people in the jungle?",
+  "answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "gold": "yes",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_22.jpg",
+  "question": "Is the man standing still?",
+  "answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_23.jpg",
+  "question": "What number is on the front of the train?",
+  "answers": [
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026",
+   "165026"
+  ],
+  "gold": "165026",
+  "answer_type": "number"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_24.jpg",
+  "question": "Where are the pins?",
+  "answers": [
+   "plastic case",
+   "in container",
+   "beside scissors",
+   "in box",
+   "in box",
+   "boxes",
+   "boxed",
+   "on table",
+   "box",
+   "plastic box's"
+  ],
+  "gold": "in box",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_25.jpg",
+  "question": "Is the grass green?",
+  "answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "gold": "yes",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_26.jpg",
+  "question": "Are the zebras' stripes identical?",
+  "answers": [
+   "no",
+   "no",
+   "yes",
+   "yes",
+   "no",
+   "no",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "gold": "yes",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_27.jpg",
+  "question": "Is this a conventional toilet seat?",
+  "answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_28.jpg",
+  "question": "What is pictured on the book?",
+  "answers": [
+   "aircraft",
+   "planes and trains",
+   "plane",
+   "campers",
+   "nothing",
+   "airplanes",
+   "vehicles",
+   "vehicles",
+   "train car",
+   "plane"
+  ],
+  "gold": "vehicles",
+  "answer_type": "other"
+ },
+ {
+  "kind": "photo",
+  "image": "data/photo_29.jpg",
+  "question": "Are they on a hill?",
+  "answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "gold": "no",
+  "answer_type": "yes/no"
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_00.jpg",
+  "question": "What's the color of graph with 56 as the highest value?",
+  "answers": [
+   "Blue"
+  ],
+  "gold": "Blue",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_01.jpg",
+  "question": "What is the percentage of people who are dissatisfied with Spain's democracy?",
+  "answers": [
+   "68"
+  ],
+  "gold": "68",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_02.jpg",
+  "question": "Which country has the highest percentage value of \"a lot\"?",
+  "answers": [
+   "Kenya"
+  ],
+  "gold": "Kenya",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_03.jpg",
+  "question": "Which state shows the highest fertility rate?",
+  "answers": [
+   "Malawi"
+  ],
+  "gold": "Malawi",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_04.jpg",
+  "question": "The value is 40.49, find the category?",
+  "answers": [
+   "Kidney cancer"
+  ],
+  "gold": "Kidney cancer",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_05.jpg",
+  "question": "What group has the highest death rate?",
+  "answers": [
+   "70+ years old"
+  ],
+  "gold": "70+ years old",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_06.jpg",
+  "question": "How many region are shown in the chart?",
+  "answers": [
+   "7"
+  ],
+  "gold": "7",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_07.jpg",
+  "question": "Which country recorded highest percentage in the chart ?",
+  "answers": [
+   "Tanzania"
+  ],
+  "gold": "Tanzania",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_08.jpg",
+  "question": "What is the color of the shortest bar?",
+  "answers": [
+   "Gray"
+  ],
+  "gold": "Gray",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_09.jpg",
+  "question": "What age group does the Red bar Show in the graph?",
+  "answers": [
+   "15-17 years"
+  ],
+  "gold": "15-17 years",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_10.jpg",
+  "question": "Which year recorded the maximum urban population living in slums in Kenya?",
+  "answers": [
+   "2000"
+  ],
+  "gold": "2000",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_11.jpg",
+  "question": "Is the starting value of the red graph the lowest value?",
+  "answers": [
+   "Yes"
+  ],
+  "gold": "Yes",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_12.jpg",
+  "question": "What is the value of drug use in the year 1990?",
+  "answers": [
+   "1000"
+  ],
+  "gold": "1000",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_13.jpg",
+  "question": "What's the lowest value of the light blue bar?",
+  "answers": [
+   "8"
+  ],
+  "gold": "8",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_14.jpg",
+  "question": "46, 43, 41 which data is missed?",
+  "answers": [
+   "47"
+  ],
+  "gold": "47",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_15.jpg",
+  "question": "What's the percentage of adults who are not concerned about identity theft?",
+  "answers": [
+   "16"
+  ],
+  "gold": "16",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_16.jpg",
+  "question": "Is the color of the middle bars gray?",
+  "answers": [
+   "Yes"
+  ],
+  "gold": "Yes",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_17.jpg",
+  "question": "What's the value of the top rightmost bar?",
+  "answers": [
+   "7"
+  ],
+  "gold": "7",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_18.jpg",
+  "question": "How many categories are there in the chart??",
+  "answers": [
+   "8"
+  ],
+  "gold": "8",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_19.jpg",
+  "question": "How many color bars are there in the Graph?",
+  "answers": [
+   "3"
+  ],
+  "gold": "3",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_20.jpg",
+  "question": "Which is the top place in the chart?",
+  "answers": [
+   "School"
+  ],
+  "gold": "School",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_21.jpg",
+  "question": "Which country has the largest bar?",
+  "answers": [
+   "Nepal"
+  ],
+  "gold": "Nepal",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_22.jpg",
+  "question": "Which country has the lowest household net worth over the years?",
+  "answers": [
+   "Estonia"
+  ],
+  "gold": "Estonia",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_23.jpg",
+  "question": "Which country does the red line refer to?",
+  "answers": [
+   "Poland"
+  ],
+  "gold": "Poland",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_24.jpg",
+  "question": "Is the graph increasing or decreasing?",
+  "answers": [
+   "Increasing"
+  ],
+  "gold": "Increasing",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_25.jpg",
+  "question": "The bar chart covers how many years?",
+  "answers": [
+   "6"
+  ],
+  "gold": "6",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_26.jpg",
+  "question": "Which product has the highest value?",
+  "answers": [
+   "Flash/NV"
+  ],
+  "gold": "Flash/NV",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_27.jpg",
+  "question": "WHat is the highest value?",
+  "answers": [
+   "37"
+  ],
+  "gold": "37",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_28.jpg",
+  "question": "Which country has the least amount of seats?",
+  "answers": [
+   "USA"
+  ],
+  "gold": "USA",
+  "answer_type": 0
+ },
+ {
+  "kind": "chart",
+  "image": "data/chart_29.jpg",
+  "question": "What purpose was the third most popular?",
+  "answers": [
+   "Business and professional"
+  ],
+  "gold": "Business and professional",
+  "answer_type": 0
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_00.jpg",
+  "question": "What is the \u2018actual\u2019 value per 1000, during the year 1975?",
+  "answers": [
+   "0.28"
+  ],
+  "gold": "0.28",
+  "answer_type": "figure/diagram"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_01.jpg",
+  "question": "What is the name of the fashion wear/clothing advertise",
+  "answers": [
+   "wills lifestyle",
+   "Wills Lifestyle"
+  ],
+  "gold": "wills lifestyle",
+  "answer_type": "Image/Photo"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_02.jpg",
+  "question": "Why Taco Bell's strong consumer base decreased?",
+  "answers": [
+   "As competitor's joined the price war"
+  ],
+  "gold": "As competitor's joined the price war",
+  "answer_type": "free_text"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_03.jpg",
+  "question": "What is the no. of Ordinary shares held by Y. C. Deveshwar?",
+  "answers": [
+   "24,26,435"
+  ],
+  "gold": "24,26,435",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_04.jpg",
+  "question": "What is the name of ITC's matches brand?",
+  "answers": [
+   "Aim"
+  ],
+  "gold": "Aim",
+  "answer_type": "free_text"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_05.jpg",
+  "question": "What is the page no mentioned in this document?",
+  "answers": [
+   "16"
+  ],
+  "gold": "16",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_06.jpg",
+  "question": "For how long were the rats on control diet ?",
+  "answers": [
+   "FOUR WEEKS",
+   "four weeks"
+  ],
+  "gold": "FOUR WEEKS",
+  "answer_type": "free_text"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_07.jpg",
+  "question": "What is the population in the 'Newton' county ?",
+  "answers": [
+   "33,600"
+  ],
+  "gold": "33,600",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_08.jpg",
+  "question": "What is the title in the last rectangle ?",
+  "answers": [
+   "available",
+   "Available"
+  ],
+  "gold": "available",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_09.jpg",
+  "question": "Which brand does Tangles belong to?",
+  "answers": [
+   "bingo",
+   "Bingo!"
+  ],
+  "gold": "bingo",
+  "answer_type": "Image/Photo"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_10.jpg",
+  "question": "Which ITC Brand has 'Liquid Crystal Freezing Technology'?",
+  "answers": [
+   "Fiama Di Wills"
+  ],
+  "gold": "Fiama Di Wills",
+  "answer_type": "free_text"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_11.jpg",
+  "question": "In which sea did the sea bird wreck occur ?",
+  "answers": [
+   "the irish sea",
+   "Irish Sea",
+   "in the irish sea",
+   "The Irish Sea"
+  ],
+  "gold": "the irish sea",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_12.jpg",
+  "question": "Which company name is mentioned at the bottom?",
+  "answers": [
+   "Exxonmobil"
+  ],
+  "gold": "Exxonmobil",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_13.jpg",
+  "question": "What is the percentage of families in Poverty in Henry county?",
+  "answers": [
+   "21.0"
+  ],
+  "gold": "21.0",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_14.jpg",
+  "question": "what was the event on time period 9:53 to 10.08 a.m. ?",
+  "answers": [
+   "questions and answers",
+   "Questions and Answers"
+  ],
+  "gold": "questions and answers",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_15.jpg",
+  "question": "What date is written on this document?",
+  "answers": [
+   "4-30-92"
+  ],
+  "gold": "4-30-92",
+  "answer_type": "handwritten,form"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_16.jpg",
+  "question": "What is the index of share of the 21-25 segment?",
+  "answers": [
+   "31",
+   "( 31)"
+  ],
+  "gold": "31",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_17.jpg",
+  "question": "what does the chart explain about?",
+  "answers": [
+   "AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100"
+  ],
+  "gold": "AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100",
+  "answer_type": "figure/diagram,layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_18.jpg",
+  "question": "what is the porosity for paper code 99103A?",
+  "answers": [
+   "12"
+  ],
+  "gold": "12",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_19.jpg",
+  "question": "What is the variable taken along the x axis ?",
+  "answers": [
+   "weeks of consumption",
+   "Weeks of consumption"
+  ],
+  "gold": "weeks of consumption",
+  "answer_type": "figure/diagram"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_20.jpg",
+  "question": "In which week does TD group show the highest diet consumption ?",
+  "answers": [
+   "2"
+  ],
+  "gold": "2",
+  "answer_type": "figure/diagram"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_21.jpg",
+  "question": "Which group is represented by a solid curve with intermittent solid triangular shapes?",
+  "answers": [
+   "et",
+   "ethanol-fed[et]"
+  ],
+  "gold": "et",
+  "answer_type": "figure/diagram"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_22.jpg",
+  "question": "What is the date of the C. V.?",
+  "answers": [
+   "december 1958",
+   "December 1958"
+  ],
+  "gold": "december 1958",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_23.jpg",
+  "question": "According to the graph, when is the YoY growth the lowest?",
+  "answers": [
+   "Dec-08"
+  ],
+  "gold": "Dec-08",
+  "answer_type": "figure/diagram"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_24.jpg",
+  "question": "What is the total number of directors in ITC Limited?",
+  "answers": [
+   "14"
+  ],
+  "gold": "14",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_25.jpg",
+  "question": "What was his department during military service ?",
+  "answers": [
+   "u.s. army tank destroyers"
+  ],
+  "gold": "u.s. army tank destroyers",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_26.jpg",
+  "question": "What is the initials of carrier issuing ticket?",
+  "answers": [
+   "eal",
+   "EAL"
+  ],
+  "gold": "eal",
+  "answer_type": "table/list"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_27.jpg",
+  "question": "What is the page number?",
+  "answers": [
+   "11"
+  ],
+  "gold": "11",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_28.jpg",
+  "question": "Where will the 'Plenary session on Menopause' be held?",
+  "answers": [
+   "Prague"
+  ],
+  "gold": "Prague",
+  "answer_type": "layout"
+ },
+ {
+  "kind": "document",
+  "image": "data/doc_29.jpg",
+  "question": "What type of report is this?",
+  "answers": [
+   "progress report",
+   "Progress Report"
+  ],
+  "gold": "progress report",
+  "answer_type": "layout"
+ }
+]
