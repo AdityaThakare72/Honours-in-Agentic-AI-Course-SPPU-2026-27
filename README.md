@@ -15,6 +15,10 @@ Ten practicals as Jupyter notebooks, one folder each. Every folder holds two to 
 | 9 | `Experiment_09_LangGraph_Agent_Tools_HITL` | Tool calling, LangGraph stateful agent, human-in-the-loop checkpoints | 3 |
 | 10 | `Experiment_10_FastAPI_AI_Microservice` | FastAPI service with streaming, Redis semantic cache, logging and tracing | 3 |
 
+## Lab journal versions
+
+The folder `Labs_Required_Farmat` holds the same ten experiments in the format required for the lab journal: Aim, Objectives, Software Requirements, Theory, Procedure, Python Program, Observation Tables, Result and Conclusion. Each experiment is a single, shorter notebook that uses high-level libraries, and the saved outputs are the ones shown in the observations. The `Experiment_NN_...` folders above contain the longer, step-by-step versions.
+
 ## Setup
 
 1. Python 3.10 or newer. Create an environment and install the packages:
